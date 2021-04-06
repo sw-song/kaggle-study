@@ -24,3 +24,10 @@
 * Step 3. Cross Validation Check
 * Step 4. Modeling
 * Step 5. Save / Submission(kaggle)
+
+**4. Telecom Users Dataset Analysis - Predict User's Next Action with Logistic Regression**
+* Step 1. Data Load & EDA
+* Step 2. Data Preprocessing
+* Step 3. Dataset Split(Train : Test = 0.8 : 0.2)
+* Step 4. Modeling : Logistic Regression
+
