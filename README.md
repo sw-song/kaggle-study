@@ -31,3 +31,7 @@
 * Step 3. Dataset Split(Train : Test = 0.8 : 0.2)
 * Step 4. Modeling : Logistic Regression
 
+**5. Telecom Users Dataset Analysis - Clone Project(Kaggle, EDA and Building models for predicting outflow**
+* Step 1. Data Description
+* Step 2. Dependency research and formulation of hypothesis
+* Step 3. Building models to predict outflow
