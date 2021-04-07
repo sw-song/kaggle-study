@@ -45,3 +45,13 @@ Step 1. Data Description
 Step 2. Dependency research and formulation of hypothesis
 Step 3. Building models to predict outflow
 ```
+
+**[6. Heart Attack Analysis and Prediction - Binary Classification with Logistic Regression](https://github.com/sw-song/TIA/blob/main/Heart_Attack_Analysis_and_Prediction/quick-start-Binary_Classification_with_Logistic_Regression.ipynb)**
+```
+Step 1. Data Description
+Step 2. EDA
+Step 3. Correlation Check
+Step 4. Test Data Split and Standard Scaling (Test size = 0.3)
+Step 5. Modeling and Prediction
+```
+
