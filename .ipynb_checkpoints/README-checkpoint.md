@@ -36,6 +36,7 @@ Step 4. Type Tansfer - Categorical to Numerical
 Step 5. Modeling & Prediction
 Step 6. Evaluation - AUC
 ```
+---
 
 **[2. Youtube trend Analysis : Check Daily statistics for trending Youtube videos](https://github.com/sw-song/TIA/blob/main/Youtube_trend_KR/youtube_trend_analysis.ipynb)**
 ```
@@ -46,6 +47,7 @@ Step 3. Visualization - Numerical Columns
 Step 4. Visualization - WordCloud
 Step 5. Machine Learning Modeling(Keras)
 ```
+---
 
 **[3. NLP Getting Started Tutorial - Clone Project(Kaggle, NLP Getting Started Tutorial, Phill Culliton)](https://github.com/sw-song/TIA/blob/main/NLP_with_Disaster_Tweets/Clone_NLP_Getting_Started_Tutorial.ipynb)**
 ```
@@ -55,6 +57,7 @@ Step 3. Cross Validation Check
 Step 4. Modeling
 Step 5. Save / Submission(kaggle)
 ```
+---
 
 **[4. Telecom Users Dataset Analysis - Predict User's Next Action with Logistic Regression](https://github.com/sw-song/TIA/blob/main/Telecom_users_analysis/quick-start-eda-to-machine-learning-logistic.ipynb)**
 ```
@@ -70,6 +73,7 @@ Step 1. Data Description
 Step 2. Dependency research and formulation of hypothesis
 Step 3. Building models to predict outflow
 ```
+---
 
 **[5. Heart Attack Analysis and Prediction - Binary Classification with Logistic Regression](https://github.com/sw-song/TIA/blob/main/Heart_Attack_Analysis_and_Prediction/quick-start-Binary_Classification_with_Logistic_Regression.ipynb)**
 ```
@@ -88,6 +92,7 @@ Step 3. Data preprocessing - remove Outlier, upsampling
 Step 4. modeling / prediction / evaluation
 Step 5. check feature importance
 ```
+---
 
 **[6. Bankruptcy Prediction with KNN - Acc 97%](https://github.com/sw-song/TIA/blob/main/Company_Bankruptcy_Prediction/Bankruptcy_Prediction_with_KNN.ipynb)**
 ```
