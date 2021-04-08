@@ -1,5 +1,10 @@
 # TIA(Today I Analyzed) - Kaggle Study
+### Rule :
+* 직접 분석한 데이터만 순번을 올린다.
+* 분석 후 학습(Clone)할 Kernel이 있다면 순번을 올리지 않고, '**+**'표시한다.
+* 데이터를 직접 분석하기 전에 다른 Kernel을 Clone하지 않는다.
 
+---
 **[1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job](https://github.com/sw-song/TIA/blob/main/job_change_of_data_scientists/HR_Analytics.ipynb)**
 ```
 Step 1. Library Import
@@ -84,3 +89,8 @@ Step 4. modeling / prediction / evaluation
 Step 5. check feature importance
 ```
 
+**[6. Bankruptcy Prediction with KNN - Acc 97%](https://github.com/sw-song/TIA/blob/main/Company_Bankruptcy_Prediction/Bankruptcy_Prediction_with_KNN.ipynb)**
+```
+Step 1. Data Description
+Step 2. Data Preprocessing - MinMaxScaling
+Step 3. Machine Learning Modeling & Prediction
