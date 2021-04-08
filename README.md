@@ -84,3 +84,8 @@ Step 4. modeling / prediction / evaluation
 Step 5. check feature importance
 ```
 
+**[6. Bankruptcy Prediction with KNN - Acc 97%](https://github.com/sw-song/TIA/blob/main/Company_Bankruptcy_Prediction/Bankrupty_Prediction_with_KNN.ipynb)**
+```
+Step 1. Data Description
+Step 2. Data Preprocessing - MinMaxScaling
+Step 3. Machine Learning Modeling & Prediction
