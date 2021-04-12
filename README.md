@@ -99,3 +99,14 @@ Step 5. check feature importance
 Step 1. Data Description
 Step 2. Data Preprocessing - MinMaxScaling
 Step 3. Machine Learning Modeling & Prediction
+```
+
+**[6+. Bankruptcy_Prediction - Clone Project(Simple, yet, Powerful Bankrupt Prediction Model)](https://github.com/sw-song/TIA/blob/main/Company_Bankruptcy_Prediction/Clone_Powerful_Bankrupt_Prediction.ipynb)**
+```
+Step 1. Data Loading and Data Cleaning
+Step 2. Model Based Feature Selection
+Step 3. Descriptive Analysis
+Step 4. Data Analysis
+Step 5. Predicting bankruptcy
+Step 6. Conclusions
+```
