@@ -110,3 +110,13 @@ Step 4. Data Analysis
 Step 5. Predicting bankruptcy
 Step 6. Conclusions
 ```
+---
+**[7. Anomaly Detection with XGB Classifier(base model Accuracy 79%) - Facebook Recruiting IV: Human or Robot?](https://github.com/sw-song/TIA/blob/main/Classification_Human_or_Robot/Anomal_Detection_with_XGBClassifier.ipynb)**
+```
+Step 1. Data load & EDA
+Step 2. Preprocessing - replace all values with count number
+Step 3. Preprocessing - Upsampling
+Step 4. Train / Valid Set Split
+Step 5. Modeling
+Step 6. Prediction
+```
