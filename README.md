@@ -120,3 +120,16 @@ Step 4. Train / Valid Set Split
 Step 5. Modeling
 Step 6. Prediction
 ```
+
+---
+**[8. Stroke Prediction with EASY Ensemble - Acc 90%(Random Forest Base model - 90%, Gradient Boosting Tuning Model)](https://github.com/sw-song/TIA/blob/main/Stroke_Prediction/stroke_prediction.ipynb)**
+```
+Step 1. Data Load & EDA
+Step 2. Feature Engineering
+     2-a. Binary Features
+     2-b. Continuous Features
+     2-c. Categorical Features
+Step 3. Train / Test set Split & Upsampling
+Step 4. Modeling & Prediction
+```
+
