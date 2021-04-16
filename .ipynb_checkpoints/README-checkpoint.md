@@ -133,3 +133,14 @@ Step 3. Train / Test set Split & Upsampling
 Step 4. Modeling & Prediction
 ```
 
+**[8+. Stroke Prediction - Clone Project(Stroke Prediction Beginner's Guide)](https://github.com/sw-song/TIA/blob/main/Stroke_Prediction/Clone_stroke_prediction.ipynb)**
+```
+Step 1. Importing the necessary libraries
+Step 2. Importing the Data using Pandas read_csv(). And calling head() and info() on the DataFrame
+Step 3. Preprocessing Data before Exploratory Data Analysis
+Step 4. Exploratory Data Analysis on Stroke Prediction Data
+Step 5. Preparing the Data for Prediction
+Step 6. Creating a Model for Stroke Prediction
+```
+
+
