@@ -143,4 +143,15 @@ Step 5. Preparing the Data for Prediction
 Step 6. Creating a Model for Stroke Prediction
 ```
 
+---
+**[9. Predict Students Performance with MultiOutputRegressor - R2(training set) 45%](https://github.com/sw-song/TIA/blob/main/Students_Preformance_in_Exams/Predict_Students_Performance.ipynb)**
+```
+Step 1. Data Load & EDA
+Step 2. Visualization
+     2-a. Each X's distribution
+     2-b. Each y's distribution
+     2-c. 'X & y's distribution
+Step 3. Data Preprocessing
+Step 4. Modeling & Prediction
+```
 
