@@ -155,3 +155,10 @@ Step 3. Data Preprocessing
 Step 4. Modeling & Prediction
 ```
 
+**[9+. Students Performance in Exams - Clone Project(Data Science Notes 4: Machine Learning(ML))](https://github.com/sw-song/TIA/blob/main/Students_Performance_in_Exams/Clone_Data_Science_Notes_4.ipynb)**
+```
+Step 1. Imports and Datasets
+Step 2. Regression
+Step 3. Classification
+Step 4. Conclusion
+```
