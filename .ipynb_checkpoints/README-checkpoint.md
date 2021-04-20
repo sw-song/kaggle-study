@@ -159,6 +159,20 @@ Step 4. Modeling & Prediction
 ```
 Step 1. Imports and Datasets
 Step 2. Regression
+     2-a. Linear Regression 
+     2-b. Decision Tree Regressor
+     2-c. Random Forest Regressor
 Step 3. Classification
+     3-a. Preparing Data
+     3-b. One-Hot Encoding
+     3-c. Logistic Regression
+     3-d. KNN
+     3-e. SVM
+     3-f. GaussianNB
+     3-g. Decision Tree
+     3-h. Random Forest
+     3-i. Perceptron
+     3-j. Stochastic Gradient Descent (SGD)
+     3-k. Ridge Regression
 Step 4. Conclusion
 ```
