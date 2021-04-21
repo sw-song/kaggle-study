@@ -176,3 +176,20 @@ Step 3. Classification
      3-k. Ridge Regression
 Step 4. Conclusion
 ```
+---
+**[10. Breast Cancer Prediction - 3 types(Basic, MinMaxScaled, StandardScaled) of comparison](https://github.com/sw-song/TIA/blob/main/Breast_Cancer_Wisconsin/Breast_Cancer_Prediction__with_3type_of_Data.ipynb)**
+```
+Step 1. Data Load & EDA & Preprocessing
+Step 2. Visualization
+     2-a. Correlation Heatmap - raw data
+     2-b. Correlation Heatmap - MinMaxScaled data
+     2-c. Correlation Heatmap - StandardScaled data
+Step 3. Modeling & Prediction
+     3-a. Logistic Regression - raw data
+     3-b. SGDClassifier       - raw data
+     3-c. Logistic Regression - MinMaxScaled data
+     3-d. SGDClassifier       - MinMaxScaled data
+     3-e. Logistic Regression - StandardScaled data
+     3-f. SGDClassifier       - StandardScaled data
+Step 4. Conclusion
+```
