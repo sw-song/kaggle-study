@@ -193,3 +193,25 @@ Step 3. Modeling & Prediction
      3-f. SGDClassifier       - StandardScaled data
 Step 4. Conclusion
 ```
+
+---
+**[10+. Breast Cancer Prediction - Clone Project(Feature Selection and Data Visualization)](https://github.com/sw-song/TIA/blob/main/Breast_Cancer_Wisconsin/Clone_Feature_Selection_and_Data_Visualization.ipynb)**
+```
+Step 1. Data Analysis
+Step 2. Data Visualization
+     2-a. violinplot
+     2-b. boxplot
+     2-c. jointplot
+     2-d. pairgrid
+     2-e. swarmplot
+     2-f. heatmap
+Step 3. Feature Selection
+     3-a. corr
+     3-b. univariate
+     3-c. RFE
+     3-d. RFECV
+     3-e. Tree based
+Step 4. Random Forest
+Step 5. Feature Extraction
+Step 6. PCA
+```
