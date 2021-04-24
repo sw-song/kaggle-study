@@ -225,3 +225,16 @@ Step 5. Checkpoint
 Step 6. Model Fit
 Step 7. Model Evaluate
 ```
+
+
+**[12. Quick Start - Simple NN Basic Model with iris dataset](https://github.com/sw-song/TIA/blob/main/iris_classification/iris_basic.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate
+```
