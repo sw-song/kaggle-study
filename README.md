@@ -213,3 +213,15 @@ Step 3. Feature Selection and Random Forest Classification
 Step 4. Feature Extraction
 Conclusion
 ```
+
+**[11. Quick Start - Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/Fasion_mnist_classification/fasion_mnist_basic.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load and EDA
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate
+```
