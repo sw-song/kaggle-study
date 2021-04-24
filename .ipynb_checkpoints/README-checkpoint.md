@@ -214,7 +214,7 @@ Step 4. Feature Extraction
 Conclusion
 ```
 
-**[11. Quick Start - Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/Fasion_mnist_classification/fasion_mnist_basic.ipynb)**
+**[11. Quick Start - Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load and EDA
