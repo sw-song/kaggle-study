@@ -204,13 +204,12 @@ Step 2. Data Visualization
      2-d. pairgrid
      2-e. swarmplot
      2-f. heatmap
-Step 3. Feature Selection
-     3-a. corr
-     3-b. univariate
-     3-c. RFE
-     3-d. RFECV
-     3-e. Tree based
-Step 4. Random Forest
-Step 5. Feature Extraction
-Step 6. PCA
+Step 3. Feature Selection and Random Forest Classification
+     3-a. Feature selection with correlation and random forest classification
+     3-b. Univariate feature selection and random forest classification
+     3-c. Recursive feature elimination (RFE) with random forest
+     3-d. Recursive feature elimination with cross validation (RFECV) and random forest classification
+     3-e. Tree based feature selection and random forest classification
+Step 4. Feature Extraction
+Conclusion
 ```
