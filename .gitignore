@@ -1,4 +1,5 @@
 #folder
+<<<<<<< HEAD
 1_HR_Analytics/data/
 2_Youtube_trend_Analysis/data/
 3_NLP_with_Disaster_Tweets/data/
@@ -13,3 +14,6 @@
 12_iris_classification/data/
 13_RPS_Image_Classification/data/
 13_RPS_Image_Classification/rps.zip
+=======
+Classification_Human_or_Robot/data/
+>>>>>>> ebd5085393bf39c32a163c0fdbfb388fbd4d8975
