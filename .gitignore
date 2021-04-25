@@ -1,2 +1,14 @@
 #folder
-Classification_Human_or_Robot/data/
+1_HR_Analytics/data/
+2_Youtube_trend_Analysis/data/
+3_NLP_with_Disaster_Tweets/data/
+4_Telecom_users_analysis/data/
+5_Heart_Attack_Analysis_and_Prediction/data/
+6_Company_Bankruptcy_Prediction/data/
+7_Classification_Human_or_Robot/data/
+8_Stroke_Prediction/data/
+9_Students_Performance_in_Exams/data/
+10_Breast_Cancer_Wisconsin/data/
+11_Fashion_mnist_classification/data/
+12_iris_classification/data/
+12_RPS_Image_Classification/data/
