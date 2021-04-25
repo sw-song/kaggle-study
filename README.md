@@ -4,6 +4,13 @@
 * 분석 후 학습(Clone)할 Kernel이 있다면 순번을 올리지 않고, '**+**'표시한다.
 * 데이터를 직접 분석하기 전에 다른 Kernel을 Clone하지 않는다.
 
+**.gitignore**
+```
+*/data/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+````
+
 ---
 **[1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job](https://github.com/sw-song/TIA/blob/main/1_HR_Analytics/HR_Analytics.ipynb)**
 ```
