@@ -1,8 +1,7 @@
 # TIA(Today I Analyzed) - Kaggle Study
-### Rule :
-* 직접 분석한 데이터만 순번을 올린다.
-* 분석 후 학습(Clone)할 Kernel이 있다면 순번을 올리지 않고, '**+**'표시한다.
-* 데이터를 직접 분석하기 전에 다른 Kernel을 Clone하지 않는다.
+> Description
+* **My Project** : n. Main Title
+* **Clone Project** : n+. Main Title - Clone Project(Original Title)
 
 **.gitignore**
 ```
