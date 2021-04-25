@@ -1,2 +1,0 @@
-model_checkpoint_path: "basic_model.ckpt"
-all_model_checkpoint_paths: "basic_model.ckpt"
