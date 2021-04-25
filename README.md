@@ -5,7 +5,7 @@
 * 데이터를 직접 분석하기 전에 다른 Kernel을 Clone하지 않는다.
 
 ---
-**[1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job](https://github.com/sw-song/TIA/blob/main/job_change_of_data_scientists/HR_Analytics.ipynb)**
+**[1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job](https://github.com/sw-song/TIA/blob/main/1_HR_Analytics/HR_Analytics.ipynb)**
 ```
 Step 1. Library Import
 Step 2. Data Read
@@ -225,7 +225,6 @@ Step 5. Checkpoint
 Step 6. Model Fit
 Step 7. Model Evaluate
 ```
-
 
 **[12. Quick Start - Simple NN Basic Model with iris dataset](https://github.com/sw-song/TIA/blob/main/iris_classification/iris_basic.ipynb)**
 ```
