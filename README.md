@@ -220,7 +220,7 @@ Step 4. Feature Extraction
 Conclusion
 ```
 ---
-**[11. Quick Start - Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
+**[11. Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load and EDA
@@ -232,7 +232,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate
 ```
 ---
-**[12. Quick Start - Simple NN Basic Model with iris dataset](https://github.com/sw-song/TIA/blob/main/12_iris_classification/iris_basic.ipynb)**
+**[12. Simple NN Basic Model with iris dataset](https://github.com/sw-song/TIA/blob/main/12_iris_classification/iris_basic.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -244,7 +244,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate
 ```
 ---
-**[13. Quick Start - Simple CNN Model with RPS dataset](https://github.com/sw-song/TIA/blob/main/13_RPS_Image_Classification/RPS_basic_cnn.ipynb)**
+**[13. Simple CNN Model with RPS dataset - val_loss : 0.0819](https://github.com/sw-song/TIA/blob/main/13_RPS_Image_Classification/RPS_basic_cnn.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -257,8 +257,8 @@ Step 7. Model Evaluate & Save
 Step 8. Reload Model
 ```
 ---
-**[14. Quick Start - Simple CNN Model with 'Horses or Humans' dataset](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification.ipynb)**
-````
+**[14. Simple CNN Model with 'Horses or Humans' dataset - val_loss : 0.0181](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification.ipynb)**
+```
 Step 0. Library Import
 Step 1. Dataset Load
 Step 2. Data Preprocessing
@@ -268,4 +268,29 @@ Step 5. Model Checkpoint
 Step 6. Model Fit
 Step 7. Model Evaluate & Svae
 Step 8. Reload Model
+```
+---
+**[15-(1). Simple CNN Model with 'Cats vs Dogs' dataset - val_loss : 0.3119](https://github.com/sw-song/TIA/blob/main/15_Cats_vs_Dogs/cnn_3119/cats_vs_dogs_classification.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
+Step 8. Reload Model
+```
+**[15-(2). VGG16 Transfer CNN Model with 'Cats vs Dogs' dataset - val_loss : 0.1579](https://github.com/sw-song/TIA/blob/main/15_Cats_vs_Dogs/vgg16_1579/cats_vs_dogs_classification_with_vgg16.ipynb)**
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Model Reload
 ```
