@@ -199,7 +199,7 @@ Step 3. Modeling & Prediction
      3-f. SGDClassifier       - StandardScaled data
 Step 4. Conclusion
 ```
-
+ 
 **[10+. Breast Cancer Prediction - Clone Project(Feature Selection and Data Visualization)](https://github.com/sw-song/TIA/blob/main/10_Breast_Cancer_Wisconsin/Clone_Feature_Selection_and_Data_Visualization.ipynb)**
 ```
 Step 1. Data Analysis
@@ -254,5 +254,18 @@ Step 4. Model Compile
 Step 5. Save Model Checkpoint
 Step 6. Model Fit
 Step 7. Model Evaluate & Save
+Step 8. Reload Model
+```
+
+**[14. Quick Start - Simple CNN Model with 'Horses or Humans' dataset](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification.ipynb)**
+````
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
 Step 8. Reload Model
 ```
