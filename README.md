@@ -256,7 +256,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Reload Model
 ```
-
+---
 **[14. Quick Start - Simple CNN Model with 'Horses or Humans' dataset](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification.ipynb)**
 ````
 Step 0. Library Import
