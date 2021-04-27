@@ -294,7 +294,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
-
+---
 **[16. Simple NLP Model with 'sarcasm' dataset - val_loss : 0.3687](https://github.com/sw-song/TIA/blob/main/16_sarcasm/sarcasm.ipynb)**
 ```
 Step 0. Library Import
@@ -310,4 +310,17 @@ Step 5. Model Checkpoint
 Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Reload Model
+```
+---
+**[17. Time Series Forcasting Model based on LSTM with 'sunspots' dataset - val_mae : 13.90](https://github.com/sw-song/TIA/blob/main/17_sunspots/timeseries_sunspots.ipynb)**
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Model Reload
 ```
