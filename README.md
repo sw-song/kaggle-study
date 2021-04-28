@@ -257,7 +257,21 @@ Step 7. Model Evaluate & Save
 Step 8. Reload Model
 ```
 ---
-**[14. Simple CNN Model with 'Horses or Humans' dataset - val_loss : 0.0181](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification.ipynb)**
+**[14-(1). Simple CNN Model with 'Horses or Humans' dataset - val_loss : 0.0181](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification.ipynb)**
+> (High Accuracy, Incorrect assignment of test data)
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
+Step 8. Reload Model
+```
+---
+**[14-(2). Simple CNN Model(&Sigmoid) with 'Horses or Humans' dataset - val_loss : 0.7197](https://github.com/sw-song/TIA/blob/main/14_Horses_or_Humans/horses_or_humans_classification_sigmoid.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
