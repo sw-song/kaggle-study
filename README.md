@@ -349,3 +349,16 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
+
+**[17+. Time Series Forcasting Model based on LSTM with 'sunspots' dataset - Clone Project(Time Series - TensorFlow RNN-LSTM Introduction)](https://github.com/sw-song/TIA/blob/main/17_sunspots/Clone_timeseries_sunspots.ipynb)**
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Callbacks
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Model Reload
+```
