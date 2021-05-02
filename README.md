@@ -336,6 +336,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Reload Model
 ```
+**[16+. Sarcasm in News Headlines Classification - Clone Project(Sarcasm Detection : A Guide for ML and DL approach)](https://github.com/sw-song/TIA/blob/main/16_sarcasm/Clone_sarcasm.ipynb)]
 ---
 **[17. Time Series Forcasting Model based on LSTM with 'sunspots' dataset - val_mae : 13.90](https://github.com/sw-song/TIA/blob/main/17_sunspots/timeseries_sunspots.ipynb)**
 ```
