@@ -54,8 +54,24 @@ Step 4. Visualization - WordCloud
 Step 5. Machine Learning Modeling(Keras)
 ```
 ---
+**[3. NLP with Disaster Tweets](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/nlp_disaster_tweets.ipynb)**
+```
+Step 1. Library Import & Data Load
+Step 2. Data Preprocessing
+     2-a. Drop Columns
+     2-b. Tokenizer
+     2-c. Pad Sequences
+     2-d. Match Data type to numpy.ndarray
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Callbacks
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Reload Model
+Step 9. Predict Test Data
+```
 
-**[3. NLP with Disaster Tweets - Clone Project(Kaggle, NLP Getting Started Tutorial, Phill Culliton)](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/Clone_NLP_Getting_Started_Tutorial.ipynb)**
+**[3+. NLP with Disaster Tweets - Clone Project(Kaggle, NLP Getting Started Tutorial, Phill Culliton)](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/Clone_NLP_Getting_Started_Tutorial.ipynb)**
 ```
 Step 1. Data Load & EDA
 Step 2. Text -> Vectorization(One Hot Encoding)
@@ -336,7 +352,13 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Reload Model
 ```
-**[16+. Sarcasm in News Headlines Classification - Clone Project(Sarcasm Detection : A Guide for ML and DL approach)](https://github.com/sw-song/TIA/blob/main/16_sarcasm/Clone_sarcasm.ipynb)]
+**[16+. Sarcasm in News Headlines Classification - Clone Project(Sarcasm Detection : A Guide for ML and DL approach)](https://github.com/sw-song/TIA/blob/main/16_sarcasm/Clone_sarcasm.ipynb)**
+```
+Step 1. Loading and Viewing the Sample Dataset
+Step 2. ML Approach
+Step 3. DL Approach
+
+```
 ---
 **[17. Time Series Forcasting Model based on LSTM with 'sunspots' dataset - val_mae : 13.90](https://github.com/sw-song/TIA/blob/main/17_sunspots/timeseries_sunspots.ipynb)**
 ```
