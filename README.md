@@ -54,7 +54,7 @@ Step 4. Visualization - WordCloud
 Step 5. Machine Learning Modeling(Keras)
 ```
 ---
-**[3. NLP with Disaster Tweets](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/nlp_disaster_tweets.ipynb)**
+**[3. NLP with Disaster Tweets - Basic NLP Model, Score : 0.775](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/nlp_disaster_tweets.ipynb)**
 ```
 Step 1. Library Import & Data Load
 Step 2. Data Preprocessing
