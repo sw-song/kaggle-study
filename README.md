@@ -79,6 +79,25 @@ Step 3. Cross Validation Check
 Step 4. Modeling
 Step 5. Save / Submission(kaggle)
 ```
+
+**[3+. NLP with Disaster Tweets - Clone Project(Getting Started with Transfer Learning Using Tensorflow Hub)](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/Clone_TL_using_TFHub.ipynb)**
+```
+Step 0. Importing Libraries
+Step 1. Loading Data
+Step 2. Basic EDA
+     2-a. Missing Values
+     2-b. The Dependent Variable - target
+     2-c. Independent Variables
+Step 3. Text Preprocessing
+     3-a. Text Cleaning
+     3-b. Removing Stopwords
+     3-c. Lemmatization
+Step 4. Wordcloud
+Step 5. Modeling Using Pretrained Model
+     5-a. Creating Training & Testing Set
+Step 6. Prediction
+Step 7. Prepare for Submission
+```
 ---
 
 **[4. Telecom Users Dataset Analysis - Predict User's Next Action with Logistic Regression](https://github.com/sw-song/TIA/blob/main/04_Telecom_users_analysis/quick-start-eda-to-machine-learning-logistic.ipynb)**
