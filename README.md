@@ -266,6 +266,28 @@ Step 5. Checkpoint
 Step 6. Model Fit
 Step 7. Model Evaluate
 ```
+
+**[11. Fashion MNIST Classification and Visualization](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist.ipynb)**
+```
+Step 1. Library Import & Load Dataset
+     1-a. Library
+     1-b. Datasets
+     1-c. Shape of Data
+     1-d. Show Image
+Step 2. Data Preprocessing
+     2-a. class name (y)
+     2-b. Normalization (X)
+     2-c. Visualization (X)
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Training
+Step 6. Model Evaluation
+Step 7. Prediction
+     7-a. using predict method
+     7-b. predict y
+     7-c. visualization - Predict Class
+     7-d. visualization - Predict target image
+```
 ---
 **[12. Simple NN Basic Model with iris dataset](https://github.com/sw-song/TIA/blob/main/12_iris_classification/iris_basic.ipynb)**
 ```
