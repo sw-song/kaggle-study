@@ -426,3 +426,23 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
+
+**[18. Step-by-Step Tutorial From EDA To Preprocessing for Image Detection](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/step-by-step-tutorial-from-eda-to-preprocessing.ipynb)**
+```
+Step 1. Import Libraries
+Step 2. Load Data
+Step 3. Read DCM File
+     3-a. explore path with python code
+     3-b. make image extractor(function)
+Step 4. Show Sample Image
+     4-a. explore image data with python code
+     4-b. check position to draw box
+Step 5. Show Multiple Images
+Step 6. Feature Engineering
+     6-a. count opacity
+     6-b. simplify 'id'
+     6-c. rename colume 'id' to 'StudyInstanceUID for merge on 'StudyInstanceUID'
+     6-d. check the relation between 'OpacityCount' and other columes in train_study
+     6-e. visualize the relation between 'OpacityCount' and other columes in train_study
+     6-f. check duplicate values(One row and Two Appearances)
+```  
