@@ -427,7 +427,7 @@ Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
 
-**[18. Step-by-Step Tutorial From EDA To Preprocessing for Image Detection](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/step-by-step-tutorial-from-eda-to-preprocessing.ipynb)**
+**[18-(1). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Step-by-Step Tutorial From EDA To Preprocessing for Image Detection](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/step-by-step-tutorial-from-eda-to-preprocessing.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Load Data
@@ -445,4 +445,35 @@ Step 6. Feature Engineering
      6-d. check the relation between 'OpacityCount' and other columes in train_study
      6-e. visualize the relation between 'OpacityCount' and other columes in train_study
      6-f. check duplicate values(One row and Two Appearances)
+```  
+
+**[18-(2). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM Step by Step Image Detection for Beginners](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-step-by-step-image-detection-for-beginners.ipynb)
+```
+Step 1. Import Libraries
+Step 2. Load Data
+Step 3. Read DCM File
+     3-a. explore path with python code
+     3-b. make image extractor(function)
+Step 4. Show Sample Image
+     4-a. explore image data with python code
+     4-b. check position to draw box
+Step 5. Show Multiple Images
+Step 6. Feature Engineering I
+     6-a. count opacity
+     6-b. simplify 'id'
+     6-c. rename colume 'id' to 'StudyInstanceUID for merge on 'StudyInstanceUID'
+     6-d. check the relation between 'OpacityCount' and other columes in train_study
+     6-e. visualize the relation between 'OpacityCount' and other columes in train_study
+     6-f. check duplicate values(One row and Two Appearances)
+Step 7. Feature Engineering II
+     7-a. explore data analysis
+     7-b. check duplicates in dataset
+     7-c. modify some of the code in function that extract image(.dcm)
+Step 8. Visualize X-ray with bbox
+     8-a. negative for pneumonia
+     8-b. typical appearance
+     8-c. indeterminate appearance
+     8-d. atypical Appearance
+Step 9. Featrue Engineering III
+     9 .. ing
 ```  
