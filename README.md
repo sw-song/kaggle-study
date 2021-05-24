@@ -512,3 +512,41 @@ Step 9. Featrue Engineering III
      9-d. show outliers in `Atypical Appearance`
 Step 10. Image Data Preprocessing
 ```  
+
+**[18-(4). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (1)](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-1.ipynb)
+```
+Step 1. Import Libraries
+Step 2. Load Data
+Step 3. Read DCM File
+     3-a. explore path with python code
+     3-b. make image extractor(function)
+Step 4. Show Sample Image
+     4-a. explore image data with python code
+     4-b. check position to draw box
+Step 5. Show Multiple Images
+Step 6. Feature Engineering I
+     6-a. count opacity
+     6-b. simplify 'id'
+     6-c. rename colume 'id' to 'StudyInstanceUID for merge on 'StudyInstanceUID'
+     6-d. check the relation between 'OpacityCount' and other columes in train_study
+     6-e. visualize the relation between 'OpacityCount' and other columes in train_study
+     6-f. check duplicate values(One row and Two Appearances)
+Step 7. Feature Engineering II
+     7-a. explore data analysis
+     7-b. check duplicates in dataset
+     7-c. modify some of the code in function that extract image(.dcm)
+Step 8. Visualize X-ray with bbox
+     8-a. negative for pneumonia
+     8-b. typical appearance
+     8-c. indeterminate appearance
+     8-d. atypical Appearance
+Step 9. Featrue Engineering III
+     9-a. anomaly detection
+     9-b. show outliers in `Typical Appearance`
+     9-c. show outliers in `Intermiate Appearance`
+     9-d. show outliers in `Atypical Appearance`
+Step 10. Image Data Preprocessing
+     10-a. add image path to a separate column
+     10-b. Resize the image (uniform to 150x150) and Scale each pixel values (uniform range 1~255)
+     10-c. Calculate the resize ratio(x, y) and Apply the same to the bounding box
+```  
