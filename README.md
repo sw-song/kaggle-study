@@ -447,7 +447,7 @@ Step 6. Feature Engineering
      6-f. check duplicate values(One row and Two Appearances)
 ```  
 
-**[18-(2). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM Step by Step Image Detection for Beginners](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-step-by-step-image-detection-for-beginners.ipynb)
+**[18-(2). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM Step by Step Image Detection for Beginners](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-step-by-step-image-detection-for-beginners.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Load Data
@@ -513,7 +513,7 @@ Step 9. Featrue Engineering III
 Step 10. Image Data Preprocessing
 ```  
 
-**[18-(4). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (1)](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-1.ipynb)
+**[18-(4). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (1)](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-1.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Load Data
