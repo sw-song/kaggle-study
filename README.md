@@ -550,3 +550,48 @@ Step 10. Image Data Preprocessing
      10-b. Resize the image (uniform to 150x150) and Scale each pixel values (uniform range 1~255)
      10-c. Calculate the resize ratio(x, y) and Apply the same to the bounding box
 ```  
+
+**[18-(5). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2)](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-2.ipynb)**
+```
+Step 1. Load Data and Trim for use
+     1-a. load train-dataframe
+     1-b. load meta-dataframe
+     1-c. load image data array
+     1-d. calculate image resize ratio information
+Step 2. Image Pre-Classification with Data generator
+     2-a. classify image id by opacity types
+     2-b. sort image files into each type's folder
+     2-c. data generation, split train/valid set
+Step 3. Modeling - Multiclass classifier
+     3-a. import libraries
+     3-b. basic modeling with keras api
+     3-c. model compile
+     3-d. save model checkpoint
+     3-e. model fit
+     3-f. model evaluate & save
+     3-g. reload model & model summary
+```
+
+**[18-(6). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2)](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-2-2.ipynb)**
+```
+Step 1. Load Data and Trim for use
+     1-a. load train-dataframe
+     1-b. load meta-dataframe
+     1-c. load image data array
+     1-d. calculate image resize ratio information
+Step 2. Image Pre-Classification with Data generator
+     2-a. classify image id by opacity types
+     2-b. sort image files into each type's folder
+     2-c. data generation, split train/valid set
+Step 3. Modeling I - Basic Multiclass classifier
+     3-a. import libraries
+     3-b. basic modeling with keras api
+     3-c. model compile
+     3-d. save model checkpoint
+     3-e. model fit
+     3-f. model evaluate & save
+     3-g. reload model & model summary
+Step 4. Modeling II - Multiclass classifier using EfficientNet(Transfer Learning)
+     4-a. Load the EfficientNet and try it out
+     4-b.  Improving performance with an appropriate form
+```
