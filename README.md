@@ -606,3 +606,19 @@ Step 4. Load dataset
 Step 5. Evaluate model
 Step 6. Practical Application
 ```
+
+**[18-(8). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 Mini Part - Preprocess](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-mini-part-preprocess.ipynb)**
+```
+Step 1. Import Dataset
+Step 2. Test Sample data(1 row) before make the preprocessing function
+     2-a. The image with the most opacity detected is taken as a sample
+     2-b. visualize resized image without boxes
+     2-c. extract position information
+     2-d. Extract all box's information for sample image.
+     2-e. Extract corrected positions that resizing ratio is calculated
+     2-f. visualize resized image with boxes
+Step 3. Build Function for reuse
+     3-a. Test the functions that go into the function
+     3-b. Build Function and Create New DataFrame with loop
+     3-c. concat dataframe and save
+```
