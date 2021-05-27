@@ -595,3 +595,14 @@ Step 4. Modeling II - Multiclass classifier using EfficientNet(Transfer Learning
      4-a. Load the EfficientNet and try it out
      4-b.  Improving performance with an appropriate form
 ```
+
+
+**[18-(7). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Tutorial : Multi-Output Regression](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/multi_output_regression_tutorial.ipynb)**
+```
+Step 1. Get the dataset
+Step 2. Get the model
+Step 3. Evaluate a model using repeated k-fold cross-validation
+Step 4. Load dataset
+Step 5. Evaluate model
+Step 6. Practical Application
+```
