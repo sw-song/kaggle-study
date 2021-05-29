@@ -622,3 +622,17 @@ Step 3. Build Function for reuse
      3-b. Build Function and Create New DataFrame with loop
      3-c. concat dataframe and save
 ```
+
+**[18-(8). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 MultiOutput Regression](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-multioutput-regression.ipynb)**
+```
+Step 1. Load Train Data Table
+     1-a. extract data with only one opacity
+     1-b. extract image paths
+Step 2. Load Image Dataset
+     2-a. Data Preprocessing
+Step 3. Modeling
+     3-a. Train-valid split
+     3-b. Modeling
+     3-c. Training
+     3-d. Evaluation
+ ```
