@@ -3,13 +3,6 @@
 * **My Project** : n. Main Title
 * **Clone Project** : n+. Main Title - Clone Project(Original Title)
 
-**.gitignore**
-```
-*/data/*
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-````
-
 ---
 **[1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job](https://github.com/sw-song/TIA/blob/main/01_HR_Analytics/HR_Analytics.ipynb)**
 ```
