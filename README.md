@@ -636,3 +636,11 @@ Step 3. Modeling
      3-c. Training
      3-d. Evaluation
  ```
+
+ **[19+. Conditional GAN Basic with PyTorch - Clone Project(Conditional Generative Adversarial Network)](https://github.com/sw-song/TIA/blob/main/19_GAN_Basic.ipynb)**
+```
+Step 1. Loading and Viewing the Sample Dataset
+Step 2. ML Approach
+Step 3. DL Approach
+
+```
