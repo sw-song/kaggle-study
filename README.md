@@ -639,8 +639,18 @@ Step 3. Modeling
 
  **[19+. Conditional GAN Basic with PyTorch - Clone Project(Conditional Generative Adversarial Network)](https://github.com/sw-song/TIA/blob/main/19_GAN_Basic.ipynb)**
 ```
-Step 1. Loading and Viewing the Sample Dataset
-Step 2. ML Approach
-Step 3. DL Approach
-
+Step 1. Load Data
+     1-a. read csv
+     1-b. x & y split
+     1-c. data preprocessing - x
+     1-d. data preprocessing - y 
+     1-e. show sample image
+Step 2. Modeling
+     2-a. generator network
+     2-b. discriminator network
+     3-c. instantiate the networks
+     3-d. moving the networks to the gpu
+     3-e. create the loss function and optimizers
+     3-f. creating network optimizing functions 
+Step 3. Model Training
 ```
