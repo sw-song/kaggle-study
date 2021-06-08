@@ -648,7 +648,7 @@ Step 2. Modeling
 Step 3. Model Training
 ```
 
-**[19. Generate Fashion images with Conditional GAN](https://github.com/sw-song/TIA/blob/main/19_Conditional_GAN_Basic/generate-fashion-images-with-conditional-gan.ipynb)**
+**[19-(1). Generate Fashion images with Conditional GAN ..ing](https://github.com/sw-song/TIA/blob/main/19_Conditional_GAN_Basic/generate-fashion-images-with-conditional-gan.ipynb)**
 ```
 Step 1. Import Libraries and Load Dataset
      1-a. basic way to load dataset
@@ -663,6 +663,24 @@ Step 4. Define Training Functions
      4-a. training gerenator (get 1 loss and 1 gradient descent)
      4-b. training discriminator (get 1 loss and 1 gradient descent)
 Step 5. Train Model
+```
+
+**[19-(2). Generate Fashion images with Conditional GAN - final](https://github.com/sw-song/TIA/blob/main/19_Conditional_GAN_Basic/generate-fashion-images-with-conditional-gan-final.ipynb)**
+```
+Step 1. Import Libraries and Load Dataset
+     1-a. basic way to load dataset
+     1-b. more efficient way to load dataset(with transform) + batch
+Step 2. Define Discriminator and Generator
+     2-a. discriminator
+     2-b. generator
+Step 3. Define Loss Function and Optimizing Function
+     3-a. loss function
+     3-b. optimizing function
+Step 4. Define Training Functions
+     4-a. training gerenator (get 1 loss and 1 gradient descent)
+     4-b. training discriminator (get 1 loss and 1 gradient descent)
+Step 5. Train Model
+Step 6. Test Model
 ```
 
  **[20+. Animal Face Classification with PyTorch - Clone Project(Pytorch Animal Face Classification - CNN)](https://github.com/sw-song/TIA/blob/main/20_PyTorch_Classification_Basic/clone-pytorch-animal-face-classification.ipynb)**
