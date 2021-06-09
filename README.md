@@ -630,6 +630,7 @@ Step 3. Modeling
      3-d. Evaluation
  ```
 
+---
  **[19+. Conditional GAN Basic with PyTorch - Clone Project(Conditional Generative Adversarial Network)](https://github.com/sw-song/TIA/blob/main/19_Conditional_GAN_Basic/clone-conditional-generative-adversarial-network.ipynb)**
 ```
 Step 1. Load Data
@@ -682,7 +683,7 @@ Step 4. Define Training Functions
 Step 5. Train Model
 Step 6. Test Model
 ```
-
+---
  **[20+. Animal Face Classification with PyTorch - Clone Project(Pytorch Animal Face Classification - CNN)](https://github.com/sw-song/TIA/blob/main/20_PyTorch_Classification_Basic/clone-pytorch-animal-face-classification.ipynb)**
 ```
 Step 1. Preparing Dataset
