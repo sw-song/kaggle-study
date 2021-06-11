@@ -419,7 +419,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
-
+---
 **[18-(1). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Step-by-Step Tutorial From EDA To Preprocessing for Image Detection](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/step-by-step-tutorial-from-eda-to-preprocessing.ipynb)**
 ```
 Step 1. Import Libraries
