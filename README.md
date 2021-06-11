@@ -695,3 +695,13 @@ Step 3. Training Model
 Step 4. Final Test
 Step 5. Save a PyTorch Model
 ```
+
+---
+ **[21. PyTorch Basic to CNN - Clone Project(Pytorch Tutorial for Deep Learning Lovers)](https://github.com/sw-song/TIA/blob/main/21_Pytorch_Neural_Net/clone-pytorch-tutorial-for-deep-learning-lovers.ipynb)**
+```
+Step 1. Basics of pytorch
+Step 2. Linear regression with pytorch
+Step 3. Logistic regression with pytorch
+Step 4. Artificial neural network with pytorch
+Step 5. Convolutional neural network with pytorch
+```
