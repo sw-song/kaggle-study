@@ -705,3 +705,18 @@ Step 3. Logistic regression with pytorch
 Step 4. Artificial neural network with pytorch
 Step 5. Convolutional neural network with pytorch
 ```
+
+---
+**[22. Overview of Basic GAN Architecture](https://github.com/sw-song/TIA/blob/main/22_PyTorch_GAN/overview-of-basic-gan-architecture.ipynb)**
+```
+Step 1. Import Libraries
+Step 2. Initial Setting
+Step 3. Define Generator
+Step 4. Define Discriminator
+Step 5. Define Loss Function
+Step 6. Initialize Generator and Discriminator
+Step 7. GPU Setting
+Step 8. Configure Data Loader
+Step 9. Define Optimizers
+Step 10. Training
+```
