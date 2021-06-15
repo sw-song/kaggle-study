@@ -684,7 +684,7 @@ Step 5. Train Model
 Step 6. Test Model
 ```
 ---
- **[20+. Animal Face Classification with PyTorch - Clone Project(Pytorch Animal Face Classification - CNN)](https://github.com/sw-song/TIA/blob/main/20_PyTorch_Classification_Basic/clone-pytorch-animal-face-classification.ipynb)**
+**[20+. Animal Face Classification with PyTorch - Clone Project(Pytorch Animal Face Classification - CNN)](https://github.com/sw-song/TIA/blob/main/20_PyTorch_Classification_Basic/clone-pytorch-animal-face-classification.ipynb)**
 ```
 Step 1. Preparing Dataset
      1-a. Preparing Dataset Class
@@ -697,7 +697,7 @@ Step 5. Save a PyTorch Model
 ```
 
 ---
- **[21. PyTorch Basic to CNN - Clone Project(Pytorch Tutorial for Deep Learning Lovers)](https://github.com/sw-song/TIA/blob/main/21_Pytorch_Neural_Net/clone-pytorch-tutorial-for-deep-learning-lovers.ipynb)**
+**[21. PyTorch Basic to CNN - Clone Project(Pytorch Tutorial for Deep Learning Lovers)](https://github.com/sw-song/TIA/blob/main/21_Pytorch_Neural_Net/clone-pytorch-tutorial-for-deep-learning-lovers.ipynb)**
 ```
 Step 1. Basics of pytorch
 Step 2. Linear regression with pytorch
@@ -707,7 +707,7 @@ Step 5. Convolutional neural network with pytorch
 ```
 
 ---
-**[22. Overview of Basic GAN Architecture](https://github.com/sw-song/TIA/blob/main/22_PyTorch_GAN/overview-of-basic-gan-architecture.ipynb)**
+**[22. GAN Basic Tutorial : Generate MNIST](https://github.com/sw-song/TIA/blob/main/22_PyTorch_GAN_MNIST/overview-of-basic-gan-architecture.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Initial Setting
@@ -720,3 +720,23 @@ Step 8. Configure Data Loader
 Step 9. Define Optimizers
 Step 10. Training
 ```
+---
+**[23. (blueprint)CycleGAN Tutorial : Monet to Photo](https://github.com/sw-song/TIA/blob/main/23_PyTorch_CycleGAN_Monet_to_Photo/cyclegan_tutorial_monet_to_photo.ipynb)**
+```
+Step 1. Import Libraries
+Step 2. Initial Setting
+Step 3. Define Generator
+Step 4. Define Discriminator
+Step 5. Define Loss Function
+Step 6. Initialize Generator and Discriminator
+Step 7. GPU Setting
+Step 8. Weight Setting
+Step 9. Configure Optimizer
+Step 10. Learning Rate Scheduler Setting
+Step 11. Image Transformation Setting
+Step 12. DataLoader Setting
+Step 13. Define function to get sample images
+Step 14. Training
+```
+---
+
