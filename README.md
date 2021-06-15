@@ -740,3 +740,21 @@ Step 14. Training
 ```
 ---
 
+**[24. (blueprint)StarGAN Tutorial : Generate Celeb Images](https://github.com/sw-song/TIA/blob/main/24_PyTorch_StarGAN_CelebA/stargan-tutorial-generate-celeb-images.ipynb)**
+```
+Step 1. Import Libraries
+Step 2. Initial Setting
+Step 3. Define Generator
+Step 4. Define Discriminator
+Step 5. Define Loss function and Initialize Loss weights
+Step 6. Initialize Generator and Discriminator
+Step 7. GPU Setting
+Step 8. Weight Setting
+Step 9. Configure Optimizers
+Step 10. Set transforms and Configure DataLoaders
+Step 11. Define Gradient Penalty Function
+Step 12. Define function to get sample images with input label list
+Step 13. Training
+```
+---
+
