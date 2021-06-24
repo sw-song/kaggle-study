@@ -795,3 +795,34 @@ Step 15. Training
 ```
 ---
 
+**[25. Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/25_PyTorch_Stylegan_Using_Pre-trained-model/image-generation-using-stylegan-pre-trained-model.ipynb)**
+```
+Step 1. Import Libraries
+Step 2. Design Layers
+     2-a. linear layer
+     2-b. convolution layer
+     2-c. noise layer
+     2-d. style modification layer
+     2-e. pixel normalization layer
+     2-f. blur layer
+     2-g. upscaling layer
+Step 3. Design Networks
+     3-a. generator mapping network
+     3-b. generator synthesis blocks
+     3-c. generator synthesis network
+Step 4. Define the Model (Image Generator)
+     4-a. data flow : z to image
+     4-b. load pre-trained weight
+Step 5. Test the Model
+     5-a. gpu setting
+     5-b. input setting - grid
+     5-c. input setting - latent z
+     5-d. show samples
+Step 6. Control Latent Vector
+     6-a. first random latent vector + generate first image
+     6-b. second random latent vector + generate second image
+     6-c. half `z` + half `z`
+     6-d. half `w` + half `w`
+     6-e. Image Interpolation Comparison
+```
+---
