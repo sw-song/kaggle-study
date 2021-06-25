@@ -839,3 +839,17 @@ Step 2. generate sample fake-dog images
 ```
 
 
+**[26. (Step ~3)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step+3_stylegan2-ada.ipynb)**
+```
+Step 1. Initial Setting and load pre-trained model
+     1-a. import libraries
+     1-b. clone the stylegan2-ada's git repository
+     1-c. load pre-trained model that trained on afhqdog dataset
+Step 2. generate sample fake-dog images
+     2-a. a quick look at the model
+     2-b. try submodels : g_mapping, g_synthesis
+Step 3. image morphing
+     3-a. create 2 random vector z and 2 intermediate latent space w
+     3-b. generate 2 target fake-dog images
+     3-c. control `z` and try image interpolation
+```
