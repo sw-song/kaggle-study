@@ -827,7 +827,7 @@ Step 6. Control Latent Vector
 ```
 ---
 
-**[26. Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step1~2_stylegan2-ada.ipynb)**
+**[26. (Step ~2)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step1~2_stylegan2-ada.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
