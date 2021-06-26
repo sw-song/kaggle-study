@@ -881,7 +881,7 @@ Step 4. Project sample image to the latent space of pretrained network
 Step 5. Change the characteristics of a new image
 ```
 
-**[26. StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)](stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
+**[26. StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
