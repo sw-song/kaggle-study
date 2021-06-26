@@ -880,3 +880,32 @@ Step 4. Project sample image to the latent space of pretrained network
      4-j. Compare the target image with the generated image
 Step 5. Change the characteristics of a new image
 ```
+
+**[26. StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)](stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
+```
+Step 1. Initial Setting and load pre-trained model
+     1-a. import libraries
+     1-b. clone the stylegan2-ada's git repository
+     1-c. load pre-trained model that trained on afhqdog dataset
+Step 2. generate sample fake-dog images
+     2-a. a quick look at the model
+     2-b. try submodels : g_mapping, g_synthesis
+Step 3. image morphing
+     3-a. create 2 random vector z and 2 intermediate latent space w
+     3-b. generate 2 target fake-dog images
+     3-c. control `z` and try image interpolation
+Step 4. Project sample image to the latent space of pretrained network
+     4-a. load a target image
+     4-b. transform image file to numpy array
+     4-c. load the pre-trained Generator
+     4-d. Compute w stats
+     4-e. Setup noise inputs
+     4-f. Load VGG16 feature detector
+     4-g. Extract features for target image
+     4-h. Set optimizer and Initiate noise
+     4-i. projection(training)
+     4-j. Compare the target image with the generated image
+Step 5. Style Conversion
+     5-a. Extract information about smiling expressions
+     5-b. Import w to insert facial expressions
+```
