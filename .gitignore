@@ -1,5 +1,6 @@
 ## My ##
 */data/*
+*/dataset/*
 *.h5
 *.ckpt.*
 */checkpoint
