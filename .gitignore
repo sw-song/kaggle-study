@@ -6,6 +6,7 @@
 */checkpoint
 .vscode
 .yarn.lock
+node_modules
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
