@@ -4,6 +4,8 @@
 *.h5
 *.ckpt.*
 */checkpoint
+.vscode
+.yarn.lock
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
