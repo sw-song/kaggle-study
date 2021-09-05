@@ -1,16 +1,11 @@
 ```
-목차:
+요약:
 
 # TIA(Today I Analyzed) - My Project
 ## Description
 가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 
 다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.
-
-1. 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여
-2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션
-3. 증권사(키움증권) API를 활용한 비 실시간(Batch) 주가 정보 수집
-
------------------------------------------------------------------------------------------
+- 폴더명이 00_로 시작합니다.
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
@@ -19,56 +14,12 @@
 - 타이틀 번호는 데이터에 따라 매겼습니다. 
 - 번호가 같다면 동일한 데이터를 사용한 코드입니다.
 - 번호가 없다면(ex. 20) 직접 분석한 커널이 없는 경우입니다.
-
-1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job
-2. Youtube trend Analysis : Check Daily statistics for trending Youtube videos
-3. NLP with Disaster Tweets - Basic NLP Model(Score : 0.775)
-4. Telecom Users Dataset Analysis - Predict User's Next Action with Logistic Regression
-5. Heart Attack Analysis and Prediction - Binary Classification with Logistic Regression
-6. Bankruptcy Prediction with KNN - Acc 97%
-7. Anomaly Detection with XGB Classifier(base model Accuracy 79%) - Facebook Recruiting IV: Human or Robot?]
-8. Stroke Prediction with EASY Ensemble - Acc 90%(Random Forest Base model - 90%, Gradient Boosting Tuning Model)
-9. Predict Students Performance with MultiOutputRegressor - R2(training set) 45%
-10. Breast Cancer Prediction - 3 types(Basic, MinMaxScaled, StandardScaled) of comparison
-11-(1). Simple NN Basic Model with Fasion MNIST
-11-(2). Fashion MNIST Classification and Visualization
-12. Simple NN Basic Model with iris dataset
-13. Simple CNN Model with RPS dataset - val_loss : 0.0819
-14-(1). Simple CNN Model with 'Horses or Humans' dataset - val_loss : 0.0181
-14-(2). Simple CNN Model(&Sigmoid) with 'Horses or Humans' dataset - val_loss : 0.7197
-14-(3). Simple CNN Model(&Sigmoid) with 'Horses or Humans' dataset (+callbacks, learning rate scheduler) - val_loss : 0.6627
-15-(1). Simple CNN Model with 'Cats vs Dogs' dataset - val_loss : 0.3119
-15-(2). VGG16 Transfer CNN Model with 'Cats vs Dogs' dataset - val_loss : 0.1579
-16. Simple NLP Model with 'sarcasm' dataset - val_loss : 0.3687
-17. Time Series Forcasting Model based on LSTM with 'sunspots' dataset - val_mae : 13.90
-18-(1). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Step-by-Step Tutorial From EDA To Preprocessing for Image Detection
-18-(2). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM Step by Step Image Detection for Beginners
-18-(3). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM-COVID-19 Detection - 10 Step Tutorial]
-18-(4). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (1)
-18-(5). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2)
-18-(6). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2)
-18-(7). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Tutorial : Multi-Output Regression
-18-(8). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 Mini Part - Preprocess
-18-(9). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 MultiOutput Regression
-19-(1). Generate Fashion images with Conditional GAN ..ing
-19-(2). Generate Fashion images with Conditional GAN - final
-21. PyTorch Basic to CNN - Clone Project(Pytorch Tutorial for Deep Learning Lovers
-22. GAN Basic Tutorial : Generate MNIST
-23-(1). (blueprint)CycleGAN Tutorial : Monet to Photo
-23-(2). (final)CycleGAN Tutorial : Monet to Photo
-24-(1). (blueprint)StarGAN Tutorial : Generate Celeb Images
-24-(2). (final)StarGAN Tutorial : Generate Celeb Images
-25. Image Generation using Stylegan pre-trained model
-26-(1). (Step ~2)Image Generation using Stylegan pre-trained model
-26-(2). (Step ~3)Image Generation using Stylegan pre-trained model
-26-(3). (Step ~4)Image Generation using Stylegan pre-trained model
-26-(4). StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)
 ```
 
 
 # TIA(Today I Analyzed) - My Project
 ## Description
-가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.(폴더 순번 앞자리가 00_으로 시작합니다.)
+가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.
 
 **[1. 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
 ```
