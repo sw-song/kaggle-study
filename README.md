@@ -1,8 +1,76 @@
+```
+목차:
+
 # TIA(Today I Analyzed) - My Project
 ## Description
-가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 다양한 프로젝트를 통해 데이터 활용 및 분석 역량을 키우고자 합니다. -폴더 순번 앞자리가 00_으로 시작합니다.
+가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 
+다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.
 
-**[1. 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여]()**
+1. 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여
+2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션
+3. 증권사(키움증권) API를 활용한 비 실시간(Batch) 주가 정보 수집
+
+-----------------------------------------------------------------------------------------
+
+# TIA(Today I Analyzed) - Kaggle Study
+## Description
+좋은 코드가 있다면 따라 작성하면서 공부해보고, 직접 분석도 해봅니다. 
+따라 작성한 코드의 경우 타이틀 번호에 +표시를 해뒀으며 본 목차에 포함된 리스트는 모두 직접 작성한 커널입니다.
+- 타이틀 번호는 데이터에 따라 매겼습니다. 
+- 번호가 같다면 동일한 데이터를 사용한 코드입니다.
+- 번호가 없다면(ex. 20) 직접 분석한 커널이 없는 경우입니다.
+
+1. HR Analytics : Job Change of Data Scientists - Predict who will move to a new job
+2. Youtube trend Analysis : Check Daily statistics for trending Youtube videos
+3. NLP with Disaster Tweets - Basic NLP Model(Score : 0.775)
+4. Telecom Users Dataset Analysis - Predict User's Next Action with Logistic Regression
+5. Heart Attack Analysis and Prediction - Binary Classification with Logistic Regression
+6. Bankruptcy Prediction with KNN - Acc 97%
+7. Anomaly Detection with XGB Classifier(base model Accuracy 79%) - Facebook Recruiting IV: Human or Robot?]
+8. Stroke Prediction with EASY Ensemble - Acc 90%(Random Forest Base model - 90%, Gradient Boosting Tuning Model)
+9. Predict Students Performance with MultiOutputRegressor - R2(training set) 45%
+10. Breast Cancer Prediction - 3 types(Basic, MinMaxScaled, StandardScaled) of comparison
+11-(1). Simple NN Basic Model with Fasion MNIST
+11-(2). Fashion MNIST Classification and Visualization
+12. Simple NN Basic Model with iris dataset
+13. Simple CNN Model with RPS dataset - val_loss : 0.0819
+14-(1). Simple CNN Model with 'Horses or Humans' dataset - val_loss : 0.0181
+14-(2). Simple CNN Model(&Sigmoid) with 'Horses or Humans' dataset - val_loss : 0.7197
+14-(3). Simple CNN Model(&Sigmoid) with 'Horses or Humans' dataset (+callbacks, learning rate scheduler) - val_loss : 0.6627
+15-(1). Simple CNN Model with 'Cats vs Dogs' dataset - val_loss : 0.3119
+15-(2). VGG16 Transfer CNN Model with 'Cats vs Dogs' dataset - val_loss : 0.1579
+16. Simple NLP Model with 'sarcasm' dataset - val_loss : 0.3687
+17. Time Series Forcasting Model based on LSTM with 'sunspots' dataset - val_mae : 13.90
+18-(1). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Step-by-Step Tutorial From EDA To Preprocessing for Image Detection
+18-(2). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM Step by Step Image Detection for Beginners
+18-(3). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM-COVID-19 Detection - 10 Step Tutorial]
+18-(4). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (1)
+18-(5). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2)
+18-(6). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2)
+18-(7). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | Tutorial : Multi-Output Regression
+18-(8). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 Mini Part - Preprocess
+18-(9). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM: COVID-19 Detection 🔱 MultiOutput Regression
+19-(1). Generate Fashion images with Conditional GAN ..ing
+19-(2). Generate Fashion images with Conditional GAN - final
+21. PyTorch Basic to CNN - Clone Project(Pytorch Tutorial for Deep Learning Lovers
+22. GAN Basic Tutorial : Generate MNIST
+23-(1). (blueprint)CycleGAN Tutorial : Monet to Photo
+23-(2). (final)CycleGAN Tutorial : Monet to Photo
+24-(1). (blueprint)StarGAN Tutorial : Generate Celeb Images
+24-(2). (final)StarGAN Tutorial : Generate Celeb Images
+25. Image Generation using Stylegan pre-trained model
+26-(1). (Step ~2)Image Generation using Stylegan pre-trained model
+26-(2). (Step ~3)Image Generation using Stylegan pre-trained model
+26-(3). (Step ~4)Image Generation using Stylegan pre-trained model
+26-(4). StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)
+```
+
+
+# TIA(Today I Analyzed) - My Project
+## Description
+가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.(폴더 순번 앞자리가 00_으로 시작합니다.)
+
+**[1. 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 기본 전처리
@@ -21,7 +89,7 @@ Step 3. 가설 검정
 Step 4. 종합 결론
 ```
 
-**[2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션]()**
+**[2. 커머스 고객의 연간 지출액 분석을 통한 매출 개선 시뮬레이션](https://github.com/sw-song/TIA/blob/main/00_02_ecommerce/ecommerce.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 가설 검정
@@ -36,7 +104,7 @@ Step 3. 분석 결과
 Step 4. 매출 개선 시뮬레이션
 ```
 
-**[3. 증권사(키움증권) API를 활용한 비 실시간(Batch) 주가 정보 수집]()**
+**[3. 증권사(키움증권) API를 활용한 비 실시간(Batch) 주가 정보 수집](https://github.com/sw-song/TIA/blob/main/00_03_pykiwoom/pykiwoom_test.ipynb)**
 ```
 Step 1. 개요
      1-1. 주식 데이터 수집 방식 비교
@@ -54,7 +122,7 @@ Step 4. 주가 정보 수집
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
-직접 분석/모델링 한 코드와 다른 분의 좋은 커널을 따라 작성한 코드가 함께 있습니다. 따라 작성한 코드의 경우 타이틀에 +표시를 해뒀습니다.
+좋은 커널이 있다면 따라 작성하면서 공부해보고, 직접 분석도 해봅니다. 따라 작성한 코드의 경우 타이틀에 +표시를 해뒀습니다.
 * **Self** : n. Main Title
 * **Clone** : n+. Main Title - Clone Project(Original Title)
 
@@ -303,7 +371,7 @@ Step 4. Feature Extraction
 Conclusion
 ```
 ---
-**[11. Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
+**[11-(1). Simple NN Basic Model with Fasion MNIST](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load and EDA
@@ -315,7 +383,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate
 ```
 
-**[11. Fashion MNIST Classification and Visualization](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist.ipynb)**
+**[11-(2). Fashion MNIST Classification and Visualization](https://github.com/sw-song/TIA/blob/main/11_Fashion_mnist_classification/fasion_mnist.ipynb)**
 ```
 Step 1. Library Import & Load Dataset
      1-a. Library
@@ -526,7 +594,7 @@ Step 9. Featrue Engineering III
      9 .. ing
 ```  
 
-**[18-(3). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM-COVID-19 Detection - 10 Step Tutorial](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial.ipynb)
+**[18-(3). Archive For Kaggle Competition | SIIM-FISABIO-RSNA COVID-19 Detection | SIIM-COVID-19 Detection - 10 Step Tutorial](https://github.com/sw-song/TIA/blob/main/18_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Load Data
@@ -776,7 +844,7 @@ Step 9. Define Optimizers
 Step 10. Training
 ```
 ---
-**[23. (blueprint)CycleGAN Tutorial : Monet to Photo](https://github.com/sw-song/TIA/blob/main/23_PyTorch_CycleGAN_Monet_to_Photo/cyclegan_tutorial_monet_to_photo.ipynb)**
+**[23-(1). (blueprint)CycleGAN Tutorial : Monet to Photo](https://github.com/sw-song/TIA/blob/main/23_PyTorch_CycleGAN_Monet_to_Photo/cyclegan_tutorial_monet_to_photo.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Initial Setting
@@ -794,7 +862,7 @@ Step 13. Define function to get sample images
 Step 14. Training
 ```
 
-**[23. (final)CycleGAN Tutorial : Monet to Photo](https://github.com/sw-song/TIA/blob/main/23_PyTorch_CycleGAN_Monet_to_Photo/final_cyclegan-tutorial-monet-to-photo.ipynb)**
+**[23-(2). (final)CycleGAN Tutorial : Monet to Photo](https://github.com/sw-song/TIA/blob/main/23_PyTorch_CycleGAN_Monet_to_Photo/final_cyclegan-tutorial-monet-to-photo.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Initial Setting
@@ -813,7 +881,7 @@ Step 14. Training
 ```
 ---
 
-**[24. (blueprint)StarGAN Tutorial : Generate Celeb Images](https://github.com/sw-song/TIA/blob/main/24_PyTorch_StarGAN_CelebA/stargan-tutorial-generate-celeb-images.ipynb)**
+**[24-(1). (blueprint)StarGAN Tutorial : Generate Celeb Images](https://github.com/sw-song/TIA/blob/main/24_PyTorch_StarGAN_CelebA/stargan-tutorial-generate-celeb-images.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Initial Setting
@@ -830,7 +898,7 @@ Step 12. Define function to get sample images with input label list
 Step 13. Training
 ```
 
-**[24. (final)StarGAN Tutorial : Generate Celeb Images](https://github.com/sw-song/TIA/blob/main/24_PyTorch_StarGAN_CelebA/final_stargan-tutorial-generate-celeb-images.ipynb)**
+**[24-(2). (final)StarGAN Tutorial : Generate Celeb Images](https://github.com/sw-song/TIA/blob/main/24_PyTorch_StarGAN_CelebA/final_stargan-tutorial-generate-celeb-images.ipynb)**
 ```
 Step 1. Import Libraries
 Step 2. Initial Setting
@@ -882,7 +950,7 @@ Step 6. Control Latent Vector
 ```
 ---
 
-**[26. (Step ~2)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step1~2_stylegan2-ada.ipynb)**
+**[26-(1). (Step ~2)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step1~2_stylegan2-ada.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
@@ -894,7 +962,7 @@ Step 2. generate sample fake-dog images
 ```
 
 
-**[26. (Step ~3)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step+3_stylegan2-ada.ipynb)**
+**[26-(2). (Step ~3)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step+3_stylegan2-ada.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
@@ -909,7 +977,7 @@ Step 3. image morphing
      3-c. control `z` and try image interpolation
 ```
 
-**[26. (Step ~4)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step+4_stylegan2-ada.ipynb)**
+**[26-(3). (Step ~4)Image Generation using Stylegan pre-trained model](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/step+4_stylegan2-ada.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
@@ -936,7 +1004,7 @@ Step 4. Project sample image to the latent space of pretrained network
 Step 5. Change the characteristics of a new image
 ```
 
-**[26. StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
+**[26-(4). StyleGAN2-ADA : Style Conversion - Changing A Dog's Facial Expression (master version of Image Generation using Stylegan pre-trained model)](https://github.com/sw-song/TIA/blob/main/26_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
