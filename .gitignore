@@ -5,7 +5,7 @@
 *.ckpt.*
 */checkpoint
 .vscode
-.yarn.lock
+yarn.lock
 node_modules/
 
 ### JupyterNotebooks ###
