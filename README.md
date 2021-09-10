@@ -72,7 +72,7 @@ Step 4. 주가 정보 수집
      4-2. 개별 주식 일봉 차트 조회
 ```
 
-**[3. 가설 검정을 통한 금융 데이터 분석 기초]
+**[3. 가설 검정을 통한 금융 데이터 분석 기초](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
 ```
 Step 1. 카카오 주식을 1999년 11월 11일에 100만원 치 샀다면 오늘 얼마일까?
      1-1. 라이브러리 호출 및 데이터 확인
