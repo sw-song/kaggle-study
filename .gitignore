@@ -7,6 +7,7 @@
 .vscode
 yarn.lock
 node_modules/
+*/images/*
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
