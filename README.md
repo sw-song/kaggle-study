@@ -72,7 +72,7 @@ Step 4. 주가 정보 수집
      4-2. 개별 주식 일봉 차트 조회
 ```
 
-**[3. 가설 검정을 통한 금융 데이터 분석 기초](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
+**[4. 가설 검정을 통한 금융 데이터 분석 기초](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
 ```
 Step 1. 카카오 주식을 1999년 11월 11일에 100만원 치 샀다면 오늘 얼마일까?
      1-1. 라이브러리 호출 및 데이터 확인
@@ -87,6 +87,16 @@ Step 3. 수면제 먹고 자는 것보다 더 나은 수익을 낼 수 있을까
      3-4. 데이터 전처리(매매 구간 처리 - overs 컬럼)
      3-5. 데이터 전처리(매매 신호 표기 - signal 컬럼)
      3-6. 가설 검정(매입액 현재가 비교)
+```
+
+**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 | 파이썬 머신러닝](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/customer_personality_analysis.ipynb)**
+```
+Step 1. 현실 상황을 가정한다
+     1-1. 라이브러리 호출 및 데이터 확인
+     1-2. 현실에 맞게 데이터 전처리
+     1-3. 컬럼명, 데이터타입 형식 통일
+     1-4. 현재 날짜 가정
+     1-5. 이상치 처리
 ```
 
 # TIA(Today I Analyzed) - Kaggle Study
