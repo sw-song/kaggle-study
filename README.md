@@ -22,7 +22,7 @@
 가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 
 다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.
 
-**[1. 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
+**[1. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
 ```
 Step 1. 가설 설정
 Step 2. 기본 전처리
@@ -72,7 +72,7 @@ Step 4. 주가 정보 수집
      4-2. 개별 주식 일봉 차트 조회
 ```
 
-**[4. 가설 검정을 통한 금융 데이터 분석 기초](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
+**[4. 가설 검정을 통한 카카오 주식 매매 백테스팅](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/kakao_backtesting.ipynb)**
 ```
 Step 1. 카카오 주식을 1999년 11월 11일에 100만원 치 샀다면 오늘 얼마일까?
      1-1. 라이브러리 호출 및 데이터 확인
@@ -89,7 +89,7 @@ Step 3. 수면제 먹고 자는 것보다 더 나은 수익을 낼 수 있을까
      3-6. 가설 검정(매입액 현재가 비교)
 ```
 
-**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화 | 파이썬 머신러닝](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/customer_personality_analysis.ipynb)**
+**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/customer_personality_analysis.ipynb)**
 ```
 Step 1. 문제 상황 가정 및 데이터 전처리 
      1-1. 라이브러리 호출 및 데이터 확인 
