@@ -89,7 +89,7 @@ Step 3. 수면제 먹고 자는 것보다 더 나은 수익을 낼 수 있을까
      3-6. 가설 검정(매입액 현재가 비교)
 ```
 
-**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/customer_personality_analysis.ipynb)**
+**[5. (1) 문제 상황 가정 및 데이터 전처리 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
 ```
 Step 1. 문제 상황 가정 및 데이터 전처리 
      1-1. 라이브러리 호출 및 데이터 확인 
@@ -99,7 +99,7 @@ Step 1. 문제 상황 가정 및 데이터 전처리
      1-5. 이상치 처리
 ```
 
-**[5. (2) 고객 군집 분석 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_04_backtesting/customer_personality_analysis.ipynb)**
+**[5. (2) 고객 군집 분석 | 광고 프로모션 효율 증진을 위한 커머스 고객 세분화](https://github.com/sw-song/TIA/blob/main/00_05_customer_segmentation/customer_personality_analysis.ipynb)**
 ```
 Step 2. 고객 그룹 세분화
      2-1. 나이에 따라 분류하기
@@ -109,6 +109,14 @@ Step 2. 고객 그룹 세분화
      2-5. 온/오프라인 선호도에 따라 분류하기
      2-6. 프로모션 동의 여부에 따라 분류하기
      2-7. 머신러닝으로 분류하기
+```
+
+**[6. 과거 주가 데이터로 미래 주가를 예측할 수 있을까? | 파이썬 패턴 검색기 구현](https://github.com/sw-song/TIA/blob/main/00_06_pattern_search/pattern_search.ipynb)**
+```
+Step 1. 라이브러리 호출 및 코스피 지수 추출
+Step 2. 기준 구간 지정 및 시각화
+Step 3. 패턴 검색기 구현
+Step 4. 검색 구간 이후의 추세 확인
 ```
 
 # TIA(Today I Analyzed) - Kaggle Study
