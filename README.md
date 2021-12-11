@@ -1032,3 +1032,23 @@ Step 5. Style Conversion
      5-a. Extract information about smiling expressions
      5-b. Import w to insert facial expressions
 ```
+
+**[27+. Clone Project(bitcoin eda and forecasting using pycaret)](https://github.com/sw-song/TIA/blob/main/27_Crypto_Forecasting/clone-bitcoin-eda-and-forecasting-using-pycaret.ipynb)**
+```
+1. Importing dataset
+2. Filtering bitcoin from dataset
+   2-1. checking for null values
+   2-2. dropping null values
+   2-3. changing unix timestamp into date and time
+3. Explanatory data analysis
+   3-1. statistics of bitcoin
+   3-2. some insights about bitcoin
+   3-3. vwap as per time
+   3-4. trading volume as per time
+   3-5. the number of trades that took place as per time
+   3-6. correlation
+4. Using pycaret for forcasting close price of bitcoin
+   4-1. installing pycaret
+   4-2. setting up the model and comparing between different models
+   4-3. plotting the best model
+```
