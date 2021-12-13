@@ -1052,3 +1052,24 @@ Step 5. Style Conversion
    4-2. setting up the model and comparing between different models
    4-3. plotting the best model
 ```
+
+**[27+. Clone Project(Crypto Forecasting Tutorial) + translate](https://github.com/sw-song/TIA/blob/main/27_Crypto_Forecasting/crypto-forecasting-tutorial.ipynb)
+```
+1. G-Research Crypto forecasting competition
+   1-1. The Cryptocurrency Market(암호화폐 시장)
+   1-2. Forecasting returns(수익 예측)
+2. Dataset description(데이터셋 소개)
+   2-1. Load the training set(학습 데이터 불러오기)
+   2-2. Data features
+   2-3. Candlestick charts(캔들 차트)
+3. Preprocessing(전처리)
+   3-1. Dealing with missing data(결측치 처리)
+   3-2. Data visualization
+   3-3. Log returns(로그 변환된 수익)
+   3-4. Correlation between assets
+4. Building your prediction model(예측 모델 구현)
+   4-1. Prediction targets and evaluation
+   4-2. Feature design
+   4-3. Preparing the data for building predictive models
+   4-4. Baseline model: Linear Regression(선형 회귀)
+```
