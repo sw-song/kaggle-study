@@ -119,7 +119,7 @@ Step 3. 패턴 검색기 구현
 Step 4. 검색 구간 이후의 추세 확인
 ```
 
-**[7. AI, 딥러닝으로 주가를 예측할 수 있다고?](https://github.com/sw-song/TIA/blob/main/27_Crypto_Forecasting/linear_reg.ipynb)**
+**[7. AI, 딥러닝으로 주가를 예측할 수 있다고?](https://github.com/sw-song/TIA/blob/main/00_07_price_forecasting/linear_reg.ipynb)**
 ```
 Step 1. 시계열 데이터와 예측
 Step 2. 예측 실험
