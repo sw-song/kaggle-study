@@ -119,6 +119,13 @@ Step 3. 패턴 검색기 구현
 Step 4. 검색 구간 이후의 추세 확인
 ```
 
+**[7. AI, 딥러닝으로 주가를 예측할 수 있다고?](https://github.com/sw-song/TIA/blob/main/27_Crypto_Forecasting/linear_reg.ipynb)**
+```
+Step 1. 시계열 데이터와 예측
+Step 2. 예측 실험
+Step 3. 결과 해석
+```
+
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
 좋은 커널이 있다면 따라 작성하면서 공부해보고, 직접 분석도 하고 있습니다. 
@@ -1053,7 +1060,7 @@ Step 5. Style Conversion
    4-3. plotting the best model
 ```
 
-**[27+. Clone Project(Crypto Forecasting Tutorial) + translate](https://github.com/sw-song/TIA/blob/main/27_Crypto_Forecasting/crypto-forecasting-tutorial.ipynb)
+**[27+. Clone Project(Crypto Forecasting Tutorial) + translate](https://github.com/sw-song/TIA/blob/main/27_Crypto_Forecasting/crypto-forecasting-tutorial.ipynb)**
 ```
 1. G-Research Crypto forecasting competition
    1-1. The Cryptocurrency Market(암호화폐 시장)
