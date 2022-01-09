@@ -6,7 +6,8 @@
 가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 
 다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.
 - 폴더명이 00_로 시작합니다.
-- (참고)8번 프로젝트부터 본 레포지토리를 코드 저장소로 활용합니다. 분석 내용과 자세한 설명은 블로그에 기록하고 있으니 하단에서 각 프로젝트 링크를 참고바랍니다.
+- (참고)8번 프로젝트부터 본 레포지토리를 코드 저장소로 활용합니다. 
+분석 내용과 자세한 설명은 블로그에 기록하고 있으니 하단에서 각 프로젝트 링크를 참고바랍니다.
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
@@ -127,8 +128,8 @@ Step 2. 예측 실험
 Step 3. 결과 해석
 ```
 
-**[8. (코드)데이터로 보는 비트코인 가격 전망 - 이동평균부터 지수평활까지](https://github.com/sw-song/TIA/blob/main/00_08_holt_winters/bitcoin_predict.ipynb)**
-- [(설명)blog](https://songseungwon.tistory.com/entry/데이터로-보는-비트코인-가격-전망-이동평균부터-지수평활까지)
+**[8. (코드)Bitcoin price forecasting](https://github.com/sw-song/TIA/blob/main/00_08_holt_winters/bitcoin_predict.ipynb)**
+- [(설명)데이터로 보는 비트코인 가격 전망 - 이동평균부터 지수평활까지](https://songseungwon.tistory.com/entry/데이터로-보는-비트코인-가격-전망-이동평균부터-지수평활까지)
 
 
 # TIA(Today I Analyzed) - Kaggle Study
