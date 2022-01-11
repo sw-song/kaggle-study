@@ -131,6 +131,8 @@ Step 3. 결과 해석
 **[8. (코드)Bitcoin price forecasting](https://github.com/sw-song/TIA/blob/main/00_08_holt_winters/bitcoin_predict.ipynb)**
 - [(설명)데이터로 보는 비트코인 가격 전망 - 이동평균부터 지수평활까지](https://songseungwon.tistory.com/entry/데이터로-보는-비트코인-가격-전망-이동평균부터-지수평활까지)
 
+**[9. (코드)Time series - autocorrelation](https://github.com/sw-song/TIA/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
+- [(설명)주식시장에서 이기기 위한 통계적 전략 분석](https://songseungwon.tistory.com/entry/주식시장에서-이기기-위한-통계적-전략-분석)
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
