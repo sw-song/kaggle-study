@@ -134,6 +134,32 @@ Step 3. 결과 해석
 **[9. (코드)Time series - autocorrelation](https://github.com/sw-song/TIA/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
 - [(설명)주식시장에서 이기기 위한 통계적 전략 분석](https://songseungwon.tistory.com/entry/주식시장에서-이기기-위한-통계적-전략-분석)
 
+**[10. (코드)Predict Income](https://github.com/sw-song/TIA/blob/main/00_10_predict_income/predict_income.ipynb)**
+```
+Step 1. Prepare datasets and EDA
+     1-1. Seperate columns with numerical columns and categorical columns
+     1-2. Visualize distribution of data in categorical columns
+     1-3. Show distribution of data in numerical columns
+     1-4. Null check for categorical values
+     1-5. Replace Null value with the mode of each column data
+Step 2. Data Preprocessing for ML
+     2-1. Seperate X(Input) and y(Output, forcasting)
+     2-2. Transform y's value to number(one-hot-encoding)
+     2-3. Transfer X's categorical value to text(one-hot-encoding)
+     2-4. Split X data to train-set and test-set
+     2-5. Standard Scailing for numerical values - train and test dataset
+     2-6. PCA(Principal Component Analysis) and Standard Scailing for sparse values - train and test dataset
+     2-7. Concatenation numerical values and sparse values
+     2-8. Check the distribution of two datasets - train and test dataset
+Step 3. Modeling and Prediction
+     3-1. Logistic Regression
+     3-2. Random Forest
+     3-3. XGBoost
+     3-4. Light GBM
+     3-5. Deep Learning
+```
+
+
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
 좋은 커널이 있다면 따라 작성하면서 공부해보고, 직접 분석도 하고 있습니다. 
