@@ -159,6 +159,14 @@ Step 3. Modeling and Prediction
      3-5. Deep Learning
 ```
 
+**[11. 코스피, 달러 정보 수집부터 시각화까지](https://github.com/sw-song/TIA/blob/main/00_11_kospi_analysis/kospi_analysis.ipynb)**
+```
+Step 1. KOSPI 200 거래정보 가져오기
+Step 2. 환율정보 가져오기
+Step 3. 데이터 병합
+Step 4. 시계열 데이터 그려보기 with 평균, 편차
+```
+
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
