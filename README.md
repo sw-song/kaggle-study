@@ -167,6 +167,18 @@ Step 3. 데이터 병합
 Step 4. 시계열 데이터 그려보기 with 평균, 편차
 ```
 
+**[12. 파이썬으로 최적의 포트폴리오 찾기](https://github.com/sw-song/TIA/blob/main/00_12_rebalancing/portfolio(2).ipynb)**
+```
+Step 1. 야후 파이낸스 데이터 추출
+Step 2. 일일 수익률 및 최종 수익률 확인
+Step 3. 일일 수익률간 상관관계 시각화
+Step 4. 변동성(위험) 대비 수익률 시각화
+Step 5. 샤프 지수에 따른 포트폴리오 비율 시각화
+Step 6. 사프 지수에 따른 포트폴리오 수익률 및 변동성 시각화
+Step 7. 최적의 포트폴리오 비율
+```
+
+
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
