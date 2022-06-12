@@ -167,7 +167,7 @@ Step 3. 데이터 병합
 Step 4. 시계열 데이터 그려보기 with 평균, 편차
 ```
 
-**[12. 파이썬으로 최적의 포트폴리오 찾기](https://github.com/sw-song/TIA/blob/main/00_12_portfolio/portfolio(2).ipynb)**
+**[12. 파이썬으로 최적의 포트폴리오 찾기](https://github.com/sw-song/TIA/blob/main/00_12_portfolio/portfolio(3).ipynb)**
 ```
 Step 1. 야후 파이낸스 데이터 추출
 Step 2. 일일 수익률 및 최종 수익률 확인
