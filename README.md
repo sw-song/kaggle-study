@@ -178,6 +178,14 @@ Step 6. 사프 지수에 따른 포트폴리오 수익률 및 변동성 시각�
 Step 7. 최적의 포트폴리오 비율
 ```
 
+**[13. ffn 사용 퀀트 분석](https://github.com/sw-song/TIA/blob/main/00_13_backtest/ffn.ipynb)**
+```
+Step 1. 데이터 가져오기
+Step 2. 기준일 베이스 스케일링
+Step 3. 수익률 확인
+Step 4. 기술통계
+Step 5. 객체 다루기
+```
 
 
 # TIA(Today I Analyzed) - Kaggle Study
