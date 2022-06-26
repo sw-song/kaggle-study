@@ -187,6 +187,18 @@ Step 4. 기술통계
 Step 5. 객체 다루기
 ```
 
+**[14. 뉴스 기사와 주가의 상관분석](https://github.com/sw-song/TIA/blob/main/00_14_stock_sentiment_analysis/nvda.ipynb)**
+```
+Step 1. 데이터 추출
+     1-1. 뉴스 기사 수집
+     1-2. 주가 데이터 수집
+Step 2. 감성 분석
+     2-1. 사전 학습 모델
+     2-2. 감성 계량화
+Step 3. 시각화 및 상관 분석
+     3-1. 데이터 스케일링
+     3-2. 상관 분석
+```
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
