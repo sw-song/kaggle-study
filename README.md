@@ -129,10 +129,19 @@ Step 3. 결과 해석
 ```
 
 **[8. (코드)Bitcoin price forecasting](https://github.com/sw-song/TIA/blob/main/00_08_holt_winters/bitcoin_predict.ipynb)**
-- [(설명)데이터로 보는 비트코인 가격 전망 - 이동평균부터 지수평활까지](https://songseungwon.tistory.com/entry/데이터로-보는-비트코인-가격-전망-이동평균부터-지수평활까지)
+```
+Step 1. 데이터 전처리
+Step 2. 이동 평균과 지수 평활
+     2-1. 단순 종가
+     2-2. 120일, 300일 이동 평균
+     2-3. 단순 지수 평활
+Step 3. 추세와 계절성을 추가한 2차, 3차 지수 평활
+     3-1. 2차 지수 평활
+     3-2. 3차 지수 평활
+```
 
 **[9. (코드)Time series - autocorrelation](https://github.com/sw-song/TIA/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
-- [(설명)주식시장에서 이기기 위한 통계적 전략 분석](https://songseungwon.tistory.com/entry/주식시장에서-이기기-위한-통계적-전략-분석)
+
 
 **[10. (코드)Predict Income](https://github.com/sw-song/TIA/blob/main/00_10_predict_income/predict_income.ipynb)**
 ```
