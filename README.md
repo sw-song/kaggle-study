@@ -141,7 +141,15 @@ Step 3. 추세와 계절성을 추가한 2차, 3차 지수 평활
 ```
 
 **[9. (코드)Time series - autocorrelation](https://github.com/sw-song/TIA/blob/main/00_09_ts_autocorrelation/acf_pacf.ipynb)**
-
+```
+Step 1. 데이터 불러오기
+Step 2. 종가 데이터 분석
+     2-1. 차트 시각화
+     2-2. 자기상관성
+Step 3. 차분 데이터 분석
+     3-1. 자기상관성
+     3-2. 정상성
+```
 
 **[10. (코드)Predict Income](https://github.com/sw-song/TIA/blob/main/00_10_predict_income/predict_income.ipynb)**
 ```
