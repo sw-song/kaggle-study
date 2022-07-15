@@ -20,8 +20,7 @@
 
 # TIA(Today I Analyzed) - My Project
 ## Description
-가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등 
-다양한 프로젝트를 통해 데이터 활용 및 분석 스킬을 업데이트하고 있습니다.
+가설 검정을 통한 데이터 분석 뿐만 아니라 웹 스크래핑이나 API를 사용한 데이터 수집, 머신러닝 예측 모델링 등의 다양한 분석 프로젝트를 진행하고 있습니다.
 
 **[1. 넷플릭스의 콘텐츠 보유 현황과 수급 전략 분석](https://github.com/sw-song/TIA/blob/main/00_01_netflix_trend_analysis/analysis_strategy_in_netflix.ipynb)**
 ```
@@ -218,7 +217,7 @@ Step 3. 시각화 및 상관 분석
 
 # TIA(Today I Analyzed) - Kaggle Study
 ## Description
-좋은 커널이 있다면 따라 작성하면서 공부해보고, 직접 분석도 하고 있습니다. 
+좋은 커널이 있다면 따라 작성하면서 공부하고, 직접 분석도 해봅니다.
 따라 작성한 코드의 경우 타이틀에 +표시를 해뒀습니다.
 * **Self** : n. Main Title
 * **Clone** : n+. Main Title - Clone Project(Original Title)
