@@ -1184,3 +1184,10 @@ Step 7. Process and Feature Engineer Test Data
 Step 8. Infer Test
 Step 9. Create Submission CSV
 ```
+
+**[29. Let's draw the fracture more clearly](https://github.com/sw-song/TIA/blob/main/29_Fracture_Detection/eda-let-s-draw-the-fracture-more-clearly.ipynb)**
+```
+Step 1. How to gather common ids and bounding-box infos?
+Step 2. Draw some sample factures
+Step 3. And.. Let's make Class
+```
