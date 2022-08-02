@@ -1185,9 +1185,17 @@ Step 8. Infer Test
 Step 9. Create Submission CSV
 ```
 
-**[29. Let's draw the fracture more clearly](https://github.com/sw-song/TIA/blob/main/29_Fracture_Detection/eda-let-s-draw-the-fracture-more-clearly.ipynb)**
+**[29. Let's Draw The Fracture More Clearly](https://github.com/sw-song/TIA/blob/main/29_Fracture_Detection/eda-let-s-draw-the-fracture-more-clearly.ipynb)**
 ```
 Step 1. How to gather common ids and bounding-box infos?
 Step 2. Draw some sample factures
 Step 3. And.. Let's make Class
+```
+
+**[29. Drawing 3D Cervical Spine](https://github.com/sw-song/TIA/blob/main/29_Fracture_Detection/break-time-just-enjoy-drawing-3d-cervical-spine.ipynb)**
+```
+Step 1. Load Libraries
+Step 2. Set Data Path
+Step 3. Get Path Of Nii Files
+Step 4. Make The Class To Draw 3D Spines
 ```
