@@ -51,7 +51,7 @@ Step 5. Machine Learning Modeling(Keras)
 ### **Category 03. Climate & Environment**
 **[1. Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)**
 
-- **1-(1). Quick Start NLP with Disaster Tweets | [Github](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/nlp_disaster_tweets.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/quick-start-nlp-with-disaster-tweets/notebook)**
+- **1-(1). Quick Start NLP with Disaster Tweets | [Github](https://github.com/sw-song/TIA/blob/main/category_03_climate_environment/03_NLP_with_Disaster_Tweets/nlp_disaster_tweets.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/quick-start-nlp-with-disaster-tweets/notebook)**
 ```
 Step 1. Library Import & Data Load
 Step 2. Data Preprocessing
@@ -68,7 +68,7 @@ Step 8. Reload Model
 Step 9. Predict Test Data
 ```
 
-- **1-(2). NLP Getting Started Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/Clone_NLP_Getting_Started_Tutorial.ipynb) | [Kaggle](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial)** *- by Phill Culliton*
+- **1-(2). NLP Getting Started Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_03_climate_environment/03_NLP_with_Disaster_Tweets/Clone_NLP_Getting_Started_Tutorial.ipynb) | [Kaggle](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial)** *- by Phill Culliton*
 ```
 Step 1. Data Load & EDA
 Step 2. Text -> Vectorization(One Hot Encoding)
@@ -77,7 +77,7 @@ Step 4. Modeling
 Step 5. Save / Submission(kaggle)
 ```
 
-- **1-(3). Transfer Learning using TFHub | [Github](https://github.com/sw-song/TIA/blob/main/03_NLP_with_Disaster_Tweets/Clone_TL_using_TFHub.ipynb) | [Kaggle](https://www.kaggle.com/code/barun2104/transfer-learning-using-tfhub)** *- by Barun Kumar*
+- **1-(3). Transfer Learning using TFHub | [Github](https://github.com/sw-song/TIA/blob/main/category_03_climate_environment/03_NLP_with_Disaster_Tweets/Clone_TL_using_TFHub.ipynb) | [Kaggle](https://www.kaggle.com/code/barun2104/transfer-learning-using-tfhub)** *- by Barun Kumar*
 
 ```
 Step 0. Importing Libraries
