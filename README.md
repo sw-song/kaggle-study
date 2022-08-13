@@ -1,3 +1,4 @@
+
 ### **Category 01. HR**
 
 **[1. HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)**
@@ -35,6 +36,7 @@ Step 5. Modeling & Prediction
 Step 6. Evaluation - AUC
 ```
 
+---
 ### **Category 02. Marketing**
 **[1. Trending Youtube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=KRvideos.csv)**
 
@@ -48,6 +50,7 @@ Step 4. Visualization - WordCloud
 Step 5. Machine Learning Modeling(Keras)
 ```
 
+---
 ### **Category 03. Climate & Environment**
 **[1. Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)**
 
