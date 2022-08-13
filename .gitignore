@@ -8,6 +8,8 @@
 .vscode
 yarn.lock
 node_modules/
+*.csv
+*.zip
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
