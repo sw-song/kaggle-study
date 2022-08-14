@@ -338,7 +338,7 @@ Step 3. Modeling
 ---
 ### **Category 05. Financial Analytics**
 
-**[1. Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)**
+> **[1. Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)**
 
 - **1-(1). Bankrupty Prediction for ML newbie | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/01_Company_Bankruptcy_Prediction/Bankruptcy_Prediction_with_KNN.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/for-ml-newbie-bankruptcy-prediction-accuracy-97)**
 ```
@@ -359,7 +359,7 @@ Step 6. Conclusions
 
 ---
 ### **Category 06. Learning Analytics**
-**[1. Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)**
+> **[1. Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)**
 
 
 - **1-(1). MultiOutputRegression with Sparse X | [Github](https://github.com/sw-song/TIA/blob/main/category_06_learning/01_Students_Performance_in_Exams/_Students_Performance_in_Exams/Predict_Students_Performance.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/multioutputregression-with-sparse-x)**
@@ -396,7 +396,7 @@ Step 4. Conclusion
 ```
 
 ### **Category 07. Manufacture**
-**[1. Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)**
+> **[1. Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)**
 
 - **1-(1). Simple NN Basic Model with Fasion MNIST | [Github](https://github.com/sw-song/TIA/blob/main/category_07_manufacture/01_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
 ```
