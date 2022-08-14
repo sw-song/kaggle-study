@@ -1,5 +1,5 @@
 
-### **Category 01. HR**
+### **Category 01. HR Analytics**
 
 **[1. HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)**
 
@@ -49,7 +49,7 @@ Step 6. Prediction
 ```
 
 ---
-### **Category 02. Marketing**
+### **Category 02. Marketing Analytics**
 **[1. Trending Youtube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=KRvideos.csv)**
 
 - **1-(1). Youtube trend Analysis : Check Daily statistics for trending Youtube videos | [Github](https://github.com/sw-song/TIA/blob/main/category_02_marketing/01_Youtube_trend_Analysis/youtube_trend_analysis.ipynb)**
@@ -81,7 +81,7 @@ Step 3. Building models to predict outflow
 
 
 ---
-### **Category 03. Climate & Environment**
+### **Category 03. Climate & Environment Analytics**
 **[1. Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)**
 
 - **1-(1). Quick Start NLP with Disaster Tweets | [Github](https://github.com/sw-song/TIA/blob/main/category_03_climate_environment/01_NLP_with_Disaster_Tweets/nlp_disaster_tweets.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/quick-start-nlp-with-disaster-tweets/notebook)**
@@ -158,7 +158,7 @@ Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
 ---
-### **Category 04. Health & Medical**
+### **Category 04. Health & Medical Analytics**
 **[1. Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)**
 
 - **1-(1). Binary Classification with Logistic Regression | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Heart_Attack_Analysis_and_Prediction/quick-start-Binary_Classification_with_Logistic_Regression.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/binary-classification-with-logistic-regression/notebook)**
@@ -336,7 +336,7 @@ Step 3. Modeling
  ```
 
 ---
-### **Category 05. Finance**
+### **Category 05. Financial Analytics**
 
 **[1. Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)**
 
@@ -358,11 +358,11 @@ Step 6. Conclusions
 ```
 
 ---
-### **Category 06. Education**
+### **Category 06. Learning Analytics**
 **[1. Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)**
 
 
-- **1-(1). MultiOutputRegression with Sparse X | [Github](https://github.com/sw-song/TIA/blob/main/category_06_education/01_Students_Performance_in_Exams/_Students_Performance_in_Exams/Predict_Students_Performance.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/multioutputregression-with-sparse-x)**
+- **1-(1). MultiOutputRegression with Sparse X | [Github](https://github.com/sw-song/TIA/blob/main/category_06_learning/01_Students_Performance_in_Exams/_Students_Performance_in_Exams/Predict_Students_Performance.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/multioutputregression-with-sparse-x)**
 ```
 Step 1. Data Load & EDA
 Step 2. Visualization
@@ -373,7 +373,7 @@ Step 3. Data Preprocessing
 Step 4. Modeling & Prediction
 ```
 
-- **1-(2). Data Science Notes 4: Machine Learning | [Github](https://github.com/sw-song/TIA/blob/main/category_06_education/01_Students_Performance_in_Exams/Clone_Data_Science_Notes_4.ipynb) | [Kaggle](https://www.kaggle.com/code/mrhippo/data-science-notes-4-machine-learning-ml/notebook)** *- by Salih Albayrak*
+- **1-(2). Data Science Notes 4: Machine Learning | [Github](https://github.com/sw-song/TIA/blob/main/category_06_learning/01_Students_Performance_in_Exams/Clone_Data_Science_Notes_4.ipynb) | [Kaggle](https://www.kaggle.com/code/mrhippo/data-science-notes-4-machine-learning-ml/notebook)** *- by Salih Albayrak*
 ```
 Step 1. Imports and Datasets
 Step 2. Regression
@@ -432,10 +432,10 @@ Step 7. Prediction
      7-4. visualization - Predict target image
 ```
 
-### **Category 08. Objects**
+### **Category 08. Image Classification**
 **[1. Iris Species](https://www.kaggle.com/datasets/uciml/iris)**
 
-- **1-(1). Simple NN Basic Model with iris dataset | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/01_iris_classification/iris_basic.ipynb)**
+- **1-(1). Simple NN Basic Model with iris dataset | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/01_iris_classification/iris_basic.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -449,7 +449,7 @@ Step 7. Model Evaluate
 
 **[2. Rock-Paper-Scissors Images](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors?datasetId=107582&sortBy=voteCount)**
 
-- **2-(1). Simple CNN Model with RPS dataset - val_loss : 0.0819 | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/02_RPS_Image_Classification/RPS_basic_cnn.ipynb)**
+- **2-(1). Simple CNN Model with RPS dataset - val_loss : 0.0819 | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/02_RPS_Image_Classification/RPS_basic_cnn.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -464,7 +464,7 @@ Step 8. Reload Model
 
 **[3. Horses or Humans Dataset](https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset)**
 
-- **3-(1). Simple CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/03_Horses_or_Humans/horses_or_humans_classification.ipynb)**
+- **3-(1). Simple CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/03_Horses_or_Humans/horses_or_humans_classification.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -476,7 +476,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Svae
 Step 8. Reload Model
 ```
-- **3-(2). Simple CNN Model + Sigmoid func | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/03_Horses_or_Humans/horses_or_humans_classification_sigmoid.ipynb)**
+- **3-(2). Simple CNN Model + Sigmoid func | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/03_Horses_or_Humans/horses_or_humans_classification_sigmoid.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -488,7 +488,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Svae
 Step 8. Reload Model
 ```
-- **3-(3). Simple CNN Model + Sigmoid func +callbacks + learning rate scheduler | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/03_Horses_or_Humans/horses_or_humans_classification_callbacks.ipynb)**
+- **3-(3). Simple CNN Model + Sigmoid func +callbacks + learning rate scheduler | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/03_Horses_or_Humans/horses_or_humans_classification_callbacks.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -503,7 +503,7 @@ Step 8. Reload Model
 
 **[4. Cats vs Dogs](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset)**
 
-- **4-(1). Simple CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/04_Cats_vs_Dogs/cnn_3119/cats_vs_dogs_classification.ipynb)**
+- **4-(1). Simple CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/04_Cats_vs_Dogs/cnn_3119/cats_vs_dogs_classification.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Dataset Load
@@ -515,7 +515,7 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Svae
 Step 8. Reload Model
 ```
-- **4-(2). VGG16 Transfer CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/04_Cats_vs_Dogs/vgg16_1579/cats_vs_dogs_classification_with_vgg16.ipynb)**
+- **4-(2). VGG16 Transfer CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/04_Cats_vs_Dogs/vgg16_1579/cats_vs_dogs_classification_with_vgg16.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Load Dataset
@@ -528,11 +528,39 @@ Step 7. Model Evaluate & Save
 Step 8. Model Reload
 ```
 
-### **Category 09. Natural Language**
+**[5. Animal Faces](https://www.kaggle.com/datasets/andrewmvd/animal-faces)**
+
+- **5-(1). Pytorch Animal Face Classification - CNNs | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/05_PyTorch_Classification_Basic/clone-pytorch-animal-face-classification.ipynb) | [Kaggle](https://www.kaggle.com/code/mehmetlaudatekman/pytorch-animal-face-classification-cnns/notebook)** *- by Mehmet Tekman*
+```
+Step 1. Preparing Dataset
+     1-a. Preparing Dataset Class
+     1-b. Preparing Sampler Objects
+     1-c. Preparing Data Loader Objects
+Step 2. Neural Network Modeling
+Step 3. Training Model
+Step 4. Final Test
+Step 5. Save a PyTorch Model
+```
+
+
+**[6. Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)**
+
+- **6-(1). Pytorch Tutorial for Deep Learning Lovers | [Github](https://github.com/sw-song/TIA/blob/main/category_08_image_classification/06_Pytorch_Neural_Net/clone-pytorch-tutorial-for-deep-learning-lovers.ipynb) | 
+[Kaggle](https://www.kaggle.com/code/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)** *- by DATAI*
+``` 
+Step 1. Basics of pytorch
+Step 2. Linear regression with pytorch
+Step 3. Logistic regression with pytorch
+Step 4. Artificial neural network with pytorch
+Step 5. Convolutional neural network with pytorch
+```
+
+
+### **Category 09. Sentiment Analysis**
 
 **[1. News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)**
 
-- **1-(1). Simple NLP Model with 'sarcasm' dataset | [Github](https://github.com/sw-song/TIA/blob/main/category_09_natural_language/01_sarcasm/sarcasm.ipynb)**
+- **1-(1). Simple NLP Model with 'sarcasm' dataset | [Github](https://github.com/sw-song/TIA/blob/main/category_09_sentiment_analysis/01_sarcasm/sarcasm.ipynb)**
 ```
 Step 0. Library Import
 Step 1. Load Dataset
@@ -548,10 +576,141 @@ Step 6. Model Fit
 Step 7. Model Evaluate & Save
 Step 8. Reload Model
 ```
-- **1-(2). Sarcasm Detection : A Guide for ML and DL approach | [Github](https://github.com/sw-song/TIA/blob/main/category_09_natural_language/01_sarcasm/Clone_sarcasm.ipynb) | [Kaggle](https://www.kaggle.com/code/subbhashit/sarcasm-detection-a-guide-for-ml-and-dl-approach/notebook)** *- by Bunty*
+- **1-(2). Sarcasm Detection : A Guide for ML and DL approach | [Github](https://github.com/sw-song/TIA/blob/main/category_09_sentiment_analysis/01_sarcasm/Clone_sarcasm.ipynb) | [Kaggle](https://www.kaggle.com/code/subbhashit/sarcasm-detection-a-guide-for-ml-and-dl-approach/notebook)** *- by Bunty*
 ```
 Step 1. Loading and Viewing the Sample Dataset
 Step 2. ML Approach
 Step 3. DL Approach
 ```
 
+### **Category 10. Image Generation**
+
+**[1. Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)**
+
+ - **1-(1). Conditional Generative Adversarial Network | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/01_mnist/clone-conditional-generative-adversarial-network.ipynb) | [Kaggle](https://www.kaggle.com/code/arpandhatt/conditional-generative-adversarial-network/notebook)** *- by Arpan Dhatt*
+```
+Step 1. Load Data
+     1-a. read csv
+     1-b. x & y split
+     1-c. data preprocessing - x
+     1-d. data preprocessing - y 
+     1-e. show sample image
+Step 2. Modeling
+     2-a. generator network
+     2-b. discriminator network
+     3-c. instantiate the networks
+     3-d. moving the networks to the gpu
+     3-e. create the loss function and optimizers
+     3-f. creating network optimizing functions 
+Step 3. Model Training
+```
+
+
+- **1-(2). PyTorch GAN Basic Tutorial for Beginner | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/01_mnist/overview-of-basic-gan-architecture.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/pytorch-gan-basic-tutorial-for-beginner)**
+```
+Step 1. Import Libraries
+Step 2. Initial Setting
+Step 3. Define Generator
+Step 4. Define Discriminator
+Step 5. Define Loss Function
+Step 6. Initialize Generator and Discriminator
+Step 7. GPU Setting
+Step 8. Configure Data Loader
+Step 9. Define Optimizers
+Step 10. Training
+```
+
+**[2. Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)**
+
+- **2-(1). Generate Fashion images with Conditional GAN | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/02_fashion_mnist/generate-fashion-images-with-conditional-gan-final.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/generate-fashion-images-with-conditional-gan)** 
+```
+Step 1. Import Libraries and Load Dataset
+     1-a. basic way to load dataset
+     1-b. more efficient way to load dataset(with transform) + batch
+Step 2. Define Discriminator and Generator
+     2-a. discriminator
+     2-b. generator
+Step 3. Define Loss Function and Optimizing Function
+     3-a. loss function
+     3-b. optimizing function
+Step 4. Define Training Functions
+     4-a. training gerenator (get 1 loss and 1 gradient descent)
+     4-b. training discriminator (get 1 loss and 1 gradient descent)
+Step 5. Train Model
+Step 6. Test Model
+```
+
+**[3. I’m Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started)**
+
+
+- **3-(1). CycleGAN Tutorial From Scratch: Monet-to-Photo | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/03_monet/final_cyclegan-tutorial-monet-to-photo.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo/data)**
+```
+Step 1. Import Libraries
+Step 2. Initial Setting
+Step 3. Define Generator
+Step 4. Define Discriminator
+Step 5. Define Loss Function
+Step 6. Initialize Generator and Discriminator
+Step 7. GPU Setting
+Step 8. Weight Setting
+Step 9. Configure Optimizer
+Step 10. Learning Rate Scheduler Setting
+Step 11. Image Transformation Setting
+Step 12. DataLoader Setting
+Step 13. Define function to get sample images
+Step 14. Training
+```
+
+**[4. CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)**
+
+- **4-(1). StarGAN Tutorial with 15 Steps: Make Fake Images | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/04_celeb_a/final_stargan-tutorial-generate-celeb-images.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/stargan-tutorial-with-15-steps-make-fake-images)**
+```
+Step 1. Import Libraries
+Step 2. Initial Setting
+Step 3. Define Generator
+Step 4. Define Discriminator
+Step 5. Define Loss function and Initialize Loss weights
+Step 6. Initialize Generator and Discriminator
+Step 7. GPU Setting
+Step 8. Weight Setting
+Step 9. Configure Optimizers
+Step 10. Define CelebADataset Class for handling labeled dataset
+Step 11. Set transforms and Configure Dataloader for training
+Step 12. Set transforms and Configure Dataloader for testing
+Step 13. Define Gradient Penalty Function
+Step 14. Define function to get sample images with input label list
+Step 15. Training
+```
+
+**[5. FFHQ Face Data Set](https://www.kaggle.com/datasets/greatgamedota/ffhq-face-data-set)**
+
+- **5-(1). Image Generation using Stylegan pre-trained model | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/05_ffhq/image-generation-using-stylegan-pre-trained-model.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/image-generation-using-stylegan-pre-trained-model)**
+```
+Step 1. Import Libraries
+Step 2. Design Layers
+     2-a. linear layer
+     2-b. convolution layer
+     2-c. noise layer
+     2-d. style modification layer
+     2-e. pixel normalization layer
+     2-f. blur layer
+     2-g. upscaling layer
+Step 3. Design Networks
+     3-a. generator mapping network
+     3-b. generator synthesis blocks
+     3-c. generator synthesis network
+Step 4. Define the Model (Image Generator)
+     4-a. data flow : z to image
+     4-b. load pre-trained weight
+Step 5. Test the Model
+     5-a. gpu setting
+     5-b. input setting - grid
+     5-c. input setting - latent z
+     5-d. show samples
+Step 6. Control Latent Vector
+     6-a. first random latent vector + generate first image
+     6-b. second random latent vector + generate second image
+     6-c. half `z` + half `z`
+     6-d. half `w` + half `w`
+     6-e. Image Interpolation Comparison
+```
