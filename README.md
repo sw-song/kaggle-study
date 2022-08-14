@@ -9,8 +9,8 @@
 Step 1. Library Import
 Step 2. Data Read
 Step 3. EDA
-Step 3-1. EDA - Visualization | Numerical Columns
-Step 3-2. EDA - Visualization | Categorical Columns
+Step 3-a. EDA - Visualization | Numerical Columns
+Step 3-b. EDA - Visualization | Categorical Columns
 Step 4. Split Train & Validation Set
 Step 5. Train Model
 Step 6. Evaluate Validation data Accuracy
@@ -130,6 +130,33 @@ Step 6. Prediction
 Step 7. Prepare for Submission
 ```
 
+**[2. Sunspots](https://www.kaggle.com/datasets/robervalt/sunspots)**
+
+- **2-(1). Time Series Forcasting Model based on LSTM | [Github](https://github.com/sw-song/TIA/blob/main/category_03_climate_environment/02_sunspots/timeseries_sunspots.ipynb)**
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Model Reload
+```
+
+- **2-(2)TensorFlow RNN-LSTM Introduction | [Github](https://github.com/sw-song/TIA/blob/main/category_03_climate_environment/02_sunspots/Clone_timeseries_sunspots.ipynb) | [Kaggle](https://www.kaggle.com/code/kutaykutlu/time-series-tensorflow-rnn-lstm-introduction)** *- by Kutay Kutlu*
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Callbacks
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Model Reload
+```
 ---
 ### **Category 04. Health & Medical**
 **[1. Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)**
@@ -175,6 +202,139 @@ Step 5. Preparing the Data for Prediction
 Step 6. Creating a Model for Stroke Prediction
 ```
 
+**[3. Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)**
+
+- **3-(1). Practice Preprocessing with Logistic, SGD Predict | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/03_Breast_Cancer_Wisconsin/Breast_Cancer_Prediction__with_3type_of_Data.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/practice-preprocessing-with-logistic-sgd-predict)**
+```
+Step 1. Data Load & EDA & Preprocessing
+Step 2. Visualization
+     2-a. Correlation Heatmap - raw data
+     2-b. Correlation Heatmap - MinMaxScaled data
+     2-c. Correlation Heatmap - StandardScaled data
+Step 3. Modeling & Prediction
+     3-a. Logistic Regression - raw data
+     3-b. SGDClassifier       - raw data
+     3-c. Logistic Regression - MinMaxScaled data
+     3-d. SGDClassifier       - MinMaxScaled data
+     3-e. Logistic Regression - StandardScaled data
+     3-f. SGDClassifier       - StandardScaled data
+Step 4. Conclusion
+```
+ 
+- **3-(2). Feature Selection and Data Visualization | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/03_Breast_Cancer_Wisconsin/Clone_Feature_Selection_and_Data_Visualization.ipynb) | [Kaggle](https://www.kaggle.com/code/kanncaa1/feature-selection-and-data-visualization)** *- by DATAI*
+```
+Step 1. Data Analysis
+Step 2. Data Visualization
+     2-a. violinplot
+     2-b. boxplot
+     2-c. jointplot
+     2-d. pairgrid
+     2-e. swarmplot
+     2-f. heatmap
+Step 3. Feature Selection and Random Forest Classification
+     3-a. Feature selection with correlation and random forest classification
+     3-b. Univariate feature selection and random forest classification
+     3-c. Recursive feature elimination (RFE) with random forest
+     3-d. Recursive feature elimination with cross validation (RFECV) and random forest classification
+     3-e. Tree based feature selection and random forest classification
+Step 4. Feature Extraction
+Conclusion
+```
+
+**[4. SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/competitions/siim-covid19-detection/overview)**
+
+- **4-(1). SIIM: COVID-19 Detection 🔱 10+Step Tutorial (1) | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/04_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-1.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/siim-covid-19-detection-10-step-tutorial-1)**
+```
+Step 1. Import Libraries
+Step 2. Load Data
+Step 3. Read DCM File
+     3-a. explore path with python code
+     3-b. make image extractor(function)
+Step 4. Show Sample Image
+     4-a. explore image data with python code
+     4-b. check position to draw box
+Step 5. Show Multiple Images
+Step 6. Feature Engineering I
+     6-a. count opacity
+     6-b. simplify 'id'
+     6-c. rename colume 'id' to 'StudyInstanceUID for merge on 'StudyInstanceUID'
+     6-d. check the relation between 'OpacityCount' and other columes in train_study
+     6-e. visualize the relation between 'OpacityCount' and other columes in train_study
+     6-f. check duplicate values(One row and Two Appearances)
+Step 7. Feature Engineering II
+     7-a. explore data analysis
+     7-b. check duplicates in dataset
+     7-c. modify some of the code in function that extract image(.dcm)
+Step 8. Visualize X-ray with bbox
+     8-a. negative for pneumonia
+     8-b. typical appearance
+     8-c. indeterminate appearance
+     8-d. atypical Appearance
+Step 9. Featrue Engineering III
+     9-a. anomaly detection
+     9-b. show outliers in `Typical Appearance`
+     9-c. show outliers in `Intermiate Appearance`
+     9-d. show outliers in `Atypical Appearance`
+Step 10. Image Data Preprocessing
+     10-a. add image path to a separate column
+     10-b. Resize the image (uniform to 150x150) and Scale each pixel values (uniform range 1~255)
+     10-c. Calculate the resize ratio(x, y) and Apply the same to the bounding box
+```  
+
+- **4-(2). SIIM: COVID-19 Detection 🔱 10+Step Tutorial (2) | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/04_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-10-step-tutorial-2-2.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/siim-covid-19-detection-10-step-tutorial-2)**
+```
+Step 1. Load Data and Trim for use
+     1-a. load train-dataframe
+     1-b. load meta-dataframe
+     1-c. load image data array
+     1-d. calculate image resize ratio information
+Step 2. Image Pre-Classification with Data generator
+     2-a. classify image id by opacity types
+     2-b. sort image files into each type's folder
+     2-c. data generation, split train/valid set
+Step 3. Modeling I - Basic Multiclass classifier
+     3-a. import libraries
+     3-b. basic modeling with keras api
+     3-c. model compile
+     3-d. save model checkpoint
+     3-e. model fit
+     3-f. model evaluate & save
+     3-g. reload model & model summary
+Step 4. Modeling II - Multiclass classifier using EfficientNet(Transfer Learning)
+     4-a. Load the EfficientNet and try it out
+     4-b.  Improving performance with an appropriate form
+```
+
+- **4-(3). SIIM: COVID-19 Detection 🔱 Mini Part - Preprocess | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/04_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-mini-part-preprocess.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/siim-covid-19-detection-mini-part-preprocess)**
+```
+Step 1. Import Dataset
+Step 2. Test Sample data(1 row) before make the preprocessing function
+     2-a. The image with the most opacity detected is taken as a sample
+     2-b. visualize resized image without boxes
+     2-c. extract position information
+     2-d. Extract all box's information for sample image.
+     2-e. Extract corrected positions that resizing ratio is calculated
+     2-f. visualize resized image with boxes
+Step 3. Build Function for reuse
+     3-a. Test the functions that go into the function
+     3-b. Build Function and Create New DataFrame with loop
+     3-c. concat dataframe and save
+```
+
+- **4-(4). SIIM: COVID-19 Detection 🔱 MultiOutput Regression | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/04_SIIM-FISABIO-RSNA_COVID-19_Detection/siim-covid-19-detection-multioutput-regression.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/siim-covid-19-detection-multioutput-regression)**
+```
+Step 1. Load Train Data Table
+     1-a. extract data with only one opacity
+     1-b. extract image paths
+Step 2. Load Image Dataset
+     2-a. Data Preprocessing
+Step 3. Modeling
+     3-a. Train-valid split
+     3-b. Modeling
+     3-c. Training
+     3-d. Evaluation
+ ```
+
 ---
 ### **Category 05. Finance**
 
@@ -196,3 +356,202 @@ Step 4. Data Analysis
 Step 5. Predicting bankruptcy
 Step 6. Conclusions
 ```
+
+---
+### **Category 06. Education**
+**[1. Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)**
+
+
+- **1-(1). MultiOutputRegression with Sparse X | [Github](https://github.com/sw-song/TIA/blob/main/category_06_education/01_Students_Performance_in_Exams/_Students_Performance_in_Exams/Predict_Students_Performance.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/multioutputregression-with-sparse-x)**
+```
+Step 1. Data Load & EDA
+Step 2. Visualization
+     2-1. Each X's distribution
+     2-2. Each y's distribution
+     2-3. 'X & y's distribution
+Step 3. Data Preprocessing
+Step 4. Modeling & Prediction
+```
+
+- **1-(2). Data Science Notes 4: Machine Learning | [Github](https://github.com/sw-song/TIA/blob/main/category_06_education/01_Students_Performance_in_Exams/Clone_Data_Science_Notes_4.ipynb) | [Kaggle](https://www.kaggle.com/code/mrhippo/data-science-notes-4-machine-learning-ml/notebook)** *- by Salih Albayrak*
+```
+Step 1. Imports and Datasets
+Step 2. Regression
+     2-1. Linear Regression 
+     2-2. Decision Tree Regressor
+     2-3. Random Forest Regressor
+Step 3. Classification
+     3-1. Preparing Data
+     3-2. One-Hot Encoding
+     3-3. Logistic Regression
+     3-4. KNN
+     3-5. SVM
+     3-6. GaussianNB
+     3-7. Decision Tree
+     3-8. Random Forest
+     3-9. Perceptron
+     3-10. Stochastic Gradient Descent (SGD)
+     3-11. Ridge Regression
+Step 4. Conclusion
+```
+
+### **Category 07. Manufacture**
+**[1. Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)**
+
+- **1-(1). Simple NN Basic Model with Fasion MNIST | [Github](https://github.com/sw-song/TIA/blob/main/category_07_manufacture/01_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load and EDA
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate
+```
+
+- **1-(2). Fashion MNIST Classification and Visualization | [Github](https://github.com/sw-song/TIA/blob/main/category_07_manufacture/01_Fashion_mnist_classification/fasion_mnist.ipynb)**
+```
+Step 1. Library Import & Load Dataset
+     1-1. Library
+     1-2. Datasets
+     1-3. Shape of Data
+     1-4. Show Image
+Step 2. Data Preprocessing
+     2-1. class name (y)
+     2-2. Normalization (X)
+     2-3. Visualization (X)
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Training
+Step 6. Model Evaluation
+Step 7. Prediction
+     7-1. using predict method
+     7-2. predict y
+     7-3. visualization - Predict Class
+     7-4. visualization - Predict target image
+```
+
+### **Category 08. Objects**
+**[1. Iris Species](https://www.kaggle.com/datasets/uciml/iris)**
+
+- **1-(1). Simple NN Basic Model with iris dataset | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/01_iris_classification/iris_basic.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate
+```
+
+**[2. Rock-Paper-Scissors Images](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors?datasetId=107582&sortBy=voteCount)**
+
+- **2-(1). Simple CNN Model with RPS dataset - val_loss : 0.0819 | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/02_RPS_Image_Classification/RPS_basic_cnn.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Generator
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Save Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Reload Model
+```
+
+**[3. Horses or Humans Dataset](https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset)**
+
+- **3-(1). Simple CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/03_Horses_or_Humans/horses_or_humans_classification.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
+Step 8. Reload Model
+```
+- **3-(2). Simple CNN Model + Sigmoid func | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/03_Horses_or_Humans/horses_or_humans_classification_sigmoid.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
+Step 8. Reload Model
+```
+- **3-(3). Simple CNN Model + Sigmoid func +callbacks + learning rate scheduler | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/03_Horses_or_Humans/horses_or_humans_classification_callbacks.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
+Step 8. Reload Model
+```
+
+**[4. Cats vs Dogs](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset)**
+
+- **4-(1). Simple CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/04_Cats_vs_Dogs/cnn_3119/cats_vs_dogs_classification.ipynb)**
+```
+Step 0. Library Import
+Step 1. Dataset Load
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Svae
+Step 8. Reload Model
+```
+- **4-(2). VGG16 Transfer CNN Model | [Github](https://github.com/sw-song/TIA/blob/main/category_08_objects/04_Cats_vs_Dogs/vgg16_1579/cats_vs_dogs_classification_with_vgg16.ipynb)**
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Model Reload
+```
+
+### **Category 09. Natural Language**
+
+**[1. News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)**
+
+- **1-(1). Simple NLP Model with 'sarcasm' dataset | [Github](https://github.com/sw-song/TIA/blob/main/category_09_natural_language/01_sarcasm/sarcasm.ipynb)**
+```
+Step 0. Library Import
+Step 1. Load Dataset
+Step 2. Data Preprocessing
+     2-1. Train/Test split
+     2-2. Tokenizer
+     2-3. Pad Sequences
+     2-4. label type : list -> numpy array
+Step 3. Modeling
+Step 4. Model Compile
+Step 5. Model Checkpoint
+Step 6. Model Fit
+Step 7. Model Evaluate & Save
+Step 8. Reload Model
+```
+- **1-(2). Sarcasm Detection : A Guide for ML and DL approach | [Github](https://github.com/sw-song/TIA/blob/main/category_09_natural_language/01_sarcasm/Clone_sarcasm.ipynb) | [Kaggle](https://www.kaggle.com/code/subbhashit/sarcasm-detection-a-guide-for-ml-and-dl-approach/notebook)** *- by Bunty*
+```
+Step 1. Loading and Viewing the Sample Dataset
+Step 2. ML Approach
+Step 3. DL Approach
+```
+
