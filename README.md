@@ -36,6 +36,18 @@ Step 5. Modeling & Prediction
 Step 6. Evaluation - AUC
 ```
 
+**[2. Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot)**
+
+- **2-(1). Anomaly Detection with XGB Classifier | [Github](https://github.com/sw-song/TIA/blob/main/category_01_hr/02_Classification_Human_or_Robot/Anomaly_Detection_with_XGBClassifier.ipynb)**
+```
+Step 1. Data load & EDA
+Step 2. Preprocessing - replace all values with count number
+Step 3. Preprocessing - Upsampling
+Step 4. Train / Valid Set Split
+Step 5. Modeling
+Step 6. Prediction
+```
+
 ---
 ### **Category 02. Marketing**
 **[1. Trending Youtube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=KRvideos.csv)**
@@ -138,6 +150,29 @@ Step 2. EDA - pandas_profiling
 Step 3. Data preprocessing - remove Outlier, upsampling
 Step 4. modeling / prediction / evaluation
 Step 5. check feature importance
+```
+
+**[2. Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)**
+
+- **2-(1). Stroke Prediction with Easy Ensemble | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/02_Stroke_Prediction/stroke_prediction.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/stroke-prediction-with-easy-ensemble-acc-90)**
+```
+Step 1. Data Load & EDA
+Step 2. Feature Engineering
+     2-a. Binary Features
+     2-b. Continuous Features
+     2-c. Categorical Features
+Step 3. Train / Test set Split & Upsampling
+Step 4. Modeling & Prediction
+```
+
+- **2-(2). Stroke Prediction Beginner's Guide | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/02_Stroke_Prediction/Clone_stroke_prediction.ipynb) | [Kaggle](https://www.kaggle.com/code/sprakshith/stroke-prediction-beginner-s-guide)** *- by Rakshith S P*
+```
+Step 1. Importing the necessary libraries
+Step 2. Importing the Data using Pandas read_csv(). And calling head() and info() on the DataFrame
+Step 3. Preprocessing Data before Exploratory Data Analysis
+Step 4. Exploratory Data Analysis on Stroke Prediction Data
+Step 5. Preparing the Data for Prediction
+Step 6. Creating a Model for Stroke Prediction
 ```
 
 ---
