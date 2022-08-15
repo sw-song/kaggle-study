@@ -357,6 +357,75 @@ Step 5. Predicting bankruptcy
 Step 6. Conclusions
 ```
 
+> **[2. G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting)**
+
+- **2-(1). bitcoin eda and forecasting using pycaret | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/02_Crypto_Forecasting/clone-bitcoin-eda-and-forecasting-using-pycaret.ipynb) | 
+[Kaggle](https://www.kaggle.com/code/pralabhpoudel/bitcoin-eda-and-forcasting-using-pycaret/notebook)** *- by Pralabh Poudel*
+```
+Step 1. Importing dataset
+Step 2. Filtering bitcoin from dataset
+     2-1. checking for null values
+     2-2. dropping null values
+     2-3. changing unix timestamp into date and time
+Step 3. Explanatory data analysis
+     3-1. statistics of bitcoin
+     3-2. some insights about bitcoin
+     3-3. vwap as per time
+     3-4. trading volume as per time
+     3-5. the number of trades that took place as per time
+     3-6. correlation
+Step 4. Using pycaret for forcasting close price of bitcoin
+     4-1. installing pycaret
+     4-2. setting up the model and comparing between different models
+     4-3. plotting the best model
+```
+
+**2-(2). Crypto Forecasting Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/02_Crypto_Forecasting/crypto-forecasting-tutorial.ipynb) | [Kaggle(kr)](https://www.kaggle.com/code/songseungwon/crypto-forecasting-tutorial) | [Kaggle(en)](https://www.kaggle.com/code/cstein06/tutorial-to-the-g-research-crypto-competition/notebook)** *- by Carlos Stein N Brito*
+```
+Step 1. G-Research Crypto forecasting competition
+     1-1. The Cryptocurrency Market
+     1-2. Forecasting returns
+Step 2. Dataset description
+     2-1. Load the training set
+     2-2. Data features
+     2-3. Candlestick charts
+Step 3. Preprocessing
+     3-1. Dealing with missing data
+     3-2. Data visualization
+     3-3. Log returns
+     3-4. Correlation between assets
+Step 4. Building your prediction model
+     4-1. Prediction targets and evaluation
+     4-2. Feature design
+     4-3. Preparing the data for building predictive models
+     4-4. Baseline model: Linear Regression
+```
+
+>**[3. American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)**
+
+**3-(1). XGBoost Tutorial at AMEX Competition | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/xgboost-tutorial.ipynb) | [Kaggle(kr)](https://www.kaggle.com/code/songseungwon/xgboost-tutorial) | [Kaggle(en)](https://www.kaggle.com/code/cdeotte/xgboost-starter-0-793)** *-by Chris Deotte*
+```
+Step 1. Load Libraries
+Step 2. Load Dataset
+Step 3. Feature Engineering
+Step 4. Train XGB
+Step 5. Save OOF Preds
+Step 6. Feature Importances
+Step 7. Process and Feature Engineer Test Data
+Step 8. Infer Test
+Step 9. Create Submission CSV
+```
+
+**3-(2) De-Identified Data Analysis Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/de-identified-data-analysis-tutorial-ch-01.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/de-identified-data-analysis-tutorial-ch-01)**
+```
+Step 1. Load Samle Data
+Step 2. Separate Data
+Step 3. Check Outliers
+Step 4. PCA (Focus on 'D' type)
+```
+
+
+
 ---
 ### **Category 06. Learning Analytics**
 > **[1. Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)**
@@ -713,4 +782,35 @@ Step 6. Control Latent Vector
      6-c. half `z` + half `z`
      6-d. half `w` + half `w`
      6-e. Image Interpolation Comparison
+```
+
+> [6. Animal Faces](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
+
+**6-(1). [Stylegan2-ada]Change a dog's facial expression | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/06_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
+```
+Step 1. Initial Setting and load pre-trained model
+     1-a. import libraries
+     1-b. clone the stylegan2-ada's git repository
+     1-c. load pre-trained model that trained on afhqdog dataset
+Step 2. generate sample fake-dog images
+     2-a. a quick look at the model
+     2-b. try submodels : g_mapping, g_synthesis
+Step 3. image morphing
+     3-a. create 2 random vector z and 2 intermediate latent space w
+     3-b. generate 2 target fake-dog images
+     3-c. control `z` and try image interpolation
+Step 4. Project sample image to the latent space of pretrained network
+     4-a. load a target image
+     4-b. transform image file to numpy array
+     4-c. load the pre-trained Generator
+     4-d. Compute w stats
+     4-e. Setup noise inputs
+     4-f. Load VGG16 feature detector
+     4-g. Extract features for target image
+     4-h. Set optimizer and Initiate noise
+     4-i. projection(training)
+     4-j. Compare the target image with the generated image
+Step 5. Style Conversion
+     5-a. Extract information about smiling expressions
+     5-b. Import w to insert facial expressions
 ```
