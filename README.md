@@ -831,7 +831,7 @@ Step 6. Control Latent Vector
      6-e. Image Interpolation Comparison
 ```
 
-> [6. Animal Faces](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
+> **[6. Animal Faces](https://www.kaggle.com/datasets/andrewmvd/animal-faces)**
 
 - **6-(1). [Stylegan2-ada]Change a dog's facial expression | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/06_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
 ```
