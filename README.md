@@ -1,3 +1,21 @@
+## **Table of Contents**
+```
+Category 01. HR Analytics
+Category 02. Marketing Analytics
+Category 03. Climate & Environment Analytics
+Category 04. Health & Medical Analytics
+Category 05. Financial Analytics
+Category 06. Learning Analytics
+Category 07. Manufacture & Smart Factory
+Category 08. Image Classification
+Category 09. Sentiment Analysis
+Category 10. Image Generation
+
+```
+
+
+---
+## **Kernels**
 
 ### **Category 01. HR Analytics**
 
@@ -337,14 +355,14 @@ Step 3. Modeling
 
 >**[5. RSNA 2022 Cervical Spine Fracture Detection](https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection)**
 
-**5-(1). Let's Draw The Fracture More Clearly | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Fracture_Detection/eda-let-s-draw-the-fracture-more-clearly.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/eda-let-s-draw-the-fracture-more-clearly/data)**
+- **5-(1). Let's Draw The Fracture More Clearly | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Fracture_Detection/eda-let-s-draw-the-fracture-more-clearly.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/eda-let-s-draw-the-fracture-more-clearly/data)**
 ```
 Step 1. How to gather common ids and bounding-box infos?
 Step 2. Draw some sample factures
 Step 3. And.. Let's make Class
 ```
 
-**5-(2). Drawing 3D Cervical Spine | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Fracture_Detection/break-time-just-enjoy-drawing-3d-cervical-spine.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/break-time-just-enjoy-drawing-3d-cervical-spine)**
+- **5-(2). Drawing 3D Cervical Spine | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Fracture_Detection/break-time-just-enjoy-drawing-3d-cervical-spine.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/break-time-just-enjoy-drawing-3d-cervical-spine)**
 ```
 Step 1. Load Libraries
 Step 2. Set Data Path
@@ -397,7 +415,7 @@ Step 4. Using pycaret for forcasting close price of bitcoin
      4-3. plotting the best model
 ```
 
-**2-(2). Crypto Forecasting Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/02_Crypto_Forecasting/crypto-forecasting-tutorial.ipynb) | [Kaggle(kr)](https://www.kaggle.com/code/songseungwon/crypto-forecasting-tutorial) | [Kaggle(en)](https://www.kaggle.com/code/cstein06/tutorial-to-the-g-research-crypto-competition/notebook)** *- by Carlos Stein N Brito*
+- **2-(2). Crypto Forecasting Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/02_Crypto_Forecasting/crypto-forecasting-tutorial.ipynb) | [Kaggle(kr)](https://www.kaggle.com/code/songseungwon/crypto-forecasting-tutorial) | [Kaggle(en)](https://www.kaggle.com/code/cstein06/tutorial-to-the-g-research-crypto-competition/notebook)** *- by Carlos Stein N Brito*
 ```
 Step 1. G-Research Crypto forecasting competition
      1-1. The Cryptocurrency Market
@@ -420,7 +438,7 @@ Step 4. Building your prediction model
 
 >**[3. American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)**
 
-**3-(1). XGBoost Tutorial at AMEX Competition | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/xgboost-tutorial.ipynb) | [Kaggle(kr)](https://www.kaggle.com/code/songseungwon/xgboost-tutorial) | [Kaggle(en)](https://www.kaggle.com/code/cdeotte/xgboost-starter-0-793)** *-by Chris Deotte*
+- **3-(1). XGBoost Tutorial at AMEX Competition | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/xgboost-tutorial.ipynb) | [Kaggle(kr)](https://www.kaggle.com/code/songseungwon/xgboost-tutorial) | [Kaggle(en)](https://www.kaggle.com/code/cdeotte/xgboost-starter-0-793)** *-by Chris Deotte*
 ```
 Step 1. Load Libraries
 Step 2. Load Dataset
@@ -433,7 +451,7 @@ Step 8. Infer Test
 Step 9. Create Submission CSV
 ```
 
-**3-(2) De-Identified Data Analysis Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/de-identified-data-analysis-tutorial-ch-01.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/de-identified-data-analysis-tutorial-ch-01)**
+- **3-(2) De-Identified Data Analysis Tutorial | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/de-identified-data-analysis-tutorial-ch-01.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/de-identified-data-analysis-tutorial-ch-01)**
 ```
 Step 1. Load Samle Data
 Step 2. Separate Data
@@ -441,7 +459,7 @@ Step 3. Check Outliers
 Step 4. PCA (Focus on 'D' type)
 ```
 
-**3-(3) XGBoost Tutorial with Efficient Memory Management | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/xgboost-tutorial-with-efficient-memory-management.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/xgboost-tutorial-with-efficient-memory-management)**
+- **3-(3) XGBoost Tutorial with Efficient Memory Management | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/xgboost-tutorial-with-efficient-memory-management.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/xgboost-tutorial-with-efficient-memory-management)**
 ```
 1. Load Libraries
 2. Load Dataset and Manage the GPU Memory
@@ -493,7 +511,7 @@ Step 3. Classification
 Step 4. Conclusion
 ```
 
-### **Category 07. Manufacture**
+### **Category 07. Manufacture & Smart Factory**
 > **[1. Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)**
 
 - **1-(1). Simple NN Basic Model with Fasion MNIST | [Github](https://github.com/sw-song/TIA/blob/main/category_07_manufacture/01_Fashion_mnist_classification/fasion_mnist_basic.ipynb)**
@@ -815,7 +833,7 @@ Step 6. Control Latent Vector
 
 > [6. Animal Faces](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
 
-**6-(1). [Stylegan2-ada]Change a dog's facial expression | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/06_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
+- **6-(1). [Stylegan2-ada]Change a dog's facial expression | [Github](https://github.com/sw-song/TIA/blob/main/category_10_image_generation/06_Generate_Dog_with_StyleGAN2-ada/stylegan2-ada-change-a-dog-s-facial-expression.ipynb)**
 ```
 Step 1. Initial Setting and load pre-trained model
      1-a. import libraries
