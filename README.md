@@ -335,6 +335,23 @@ Step 3. Modeling
      3-d. Evaluation
  ```
 
+>**[5. RSNA 2022 Cervical Spine Fracture Detection](https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection)**
+
+**5-(1). Let's Draw The Fracture More Clearly | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Fracture_Detection/eda-let-s-draw-the-fracture-more-clearly.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/eda-let-s-draw-the-fracture-more-clearly/data)**
+```
+Step 1. How to gather common ids and bounding-box infos?
+Step 2. Draw some sample factures
+Step 3. And.. Let's make Class
+```
+
+**5-(2). Drawing 3D Cervical Spine | [Github](https://github.com/sw-song/TIA/blob/main/category_04_health_medical/05_Fracture_Detection/break-time-just-enjoy-drawing-3d-cervical-spine.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/break-time-just-enjoy-drawing-3d-cervical-spine)**
+```
+Step 1. Load Libraries
+Step 2. Set Data Path
+Step 3. Get Path Of Nii Files
+Step 4. Make The Class To Draw 3D Spines
+```
+
 ---
 ### **Category 05. Financial Analytics**
 
@@ -424,6 +441,18 @@ Step 3. Check Outliers
 Step 4. PCA (Focus on 'D' type)
 ```
 
+**3-(3) XGBoost Tutorial with Efficient Memory Management | [Github](https://github.com/sw-song/TIA/blob/main/category_05_finance/03_XGBoost_AMEX/xgboost-tutorial-with-efficient-memory-management.ipynb) | [Kaggle](https://www.kaggle.com/code/songseungwon/xgboost-tutorial-with-efficient-memory-management)**
+```
+1. Load Libraries
+2. Load Dataset and Manage the GPU Memory
+3. Feature Engineering
+4. Train XGB
+5. Save OOF Preds
+6. Feature Importance
+7. Data Processing and Feature Engineering for Test Data
+8. Infer Test
+9. Create Submission CSV
+```
 
 
 ---
